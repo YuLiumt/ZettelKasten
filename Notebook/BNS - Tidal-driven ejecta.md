@@ -1,4 +1,4 @@
-## BNS  Tidal-driven ejecta
+## BNS - Tidal-driven ejecta
 
 Tidal-driven ejecta are emitted mostly in the orbital plane, and are very neutron-rich. 
 

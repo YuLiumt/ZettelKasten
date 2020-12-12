@@ -7,13 +7,13 @@
 ## Merger stages
 
 - [[BNS Inspiral phase]]
-	- [[BNS Merger TIme]]
+	- [[BNS - Merger TIme]]
 	- [[BNS Tidal Deformability]]
-	- [[BNS  Tidal-driven ejecta]]
+	- [[BNS - Tidal-driven ejecta]]
 - [[BNS Merger Phase]]
 	- [[BNS Magnetic field amplification]]
 	- [[BNS Instabilities mode ]]
-	- [[BNS  Collapse Time]]
+	- [[BNS Collapse Time]]
 	- [[BNS Postmerger Spectrum]]
 	- [[BNS Shock-heated ejecta]]
 	- [[BNS Neutrino-driven winds]]

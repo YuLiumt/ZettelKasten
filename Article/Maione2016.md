@@ -19,7 +19,7 @@ ___
 		![[Pasted image 20201210192238.png]]
 	* The effect of the orbital eccentricity is clearly recognizable in the distance oscillations.
 		![[Pasted image 20201210194047.png]]
-* Binary starting with zero radial velocity. [[BNS Merger TIme]]
+* Binary starting with zero radial velocity. [[BNS - Merger TIme]]
 	* The simulations starting from a closer interbinary distance took longer to merge compared to ones starting from further apart, when comparing over the same distance before merger. 
 
 ## Estimate Orbital Eccentricity
