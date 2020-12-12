@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "1d9177df14dc10df",
+    "type": "split",
+    "children": [
+      {
+        "id": "f803fe49d72c5066",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11bd6a49a83b22a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "749e72694b2525ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e959ebb50b0cf77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "016104394c6932e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f18d228aaaff316",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 181
+  },
+  "right": {
+    "id": "1ff87cd29d1eca20",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7f302c3a40d2f00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5627bc788915bf4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f5283e7703c9d911",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Notebook/Eﬀective-one-body.md",
+    "Notebook/Frank Löffler.md",
+    "Notebook/Erik Schnetter.md",
+    "Notebook/Waveform Templates.md",
+    "Notebook/Binary Neutron Star.md",
+    "Report/Report 2020-12-11.md",
+    "Report/Report 2020-12-05.md",
+    "Notebook/Kranc.md",
+    "Kranc.md"
+  ]
+}
