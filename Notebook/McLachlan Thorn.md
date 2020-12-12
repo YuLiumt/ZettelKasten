@@ -1,6 +1,6 @@
 # McLachlan Thorn
 
-- BSSN
+- [[BSSN]]
 	- the most widely used formulation of the Einstein equations
-- CCZ4
+- [[CCZ4]]
 	- with a constraint-damping scheme

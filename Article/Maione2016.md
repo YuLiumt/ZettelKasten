@@ -3,14 +3,14 @@
 * **Author**: Maione, F.; De Pietri, R.; Feo, A. & [[Frank Löffler]]
 * **Summary**:
     We present new long-term equal-mass BNS simulations with four different nuclear EOSs, starting with four different values of the interbinary distance d (40, 44.3, 50, and 60 km).
-* **Link**: [[Binary Neutron Star]], [[Numerical Relativity]], [[Lorene]], [[Equation of State]], [[Gravitational Wave]]
+* **Link**: [[Binary Neutron Star]], [[Numerical Relativity]], [[Lorene]], [[Equation of State]], [[Gravitational Wave Extraction]]
 * [ADS](https://ui.adsabs.harvard.edu/abs/2016CQGra..33q5009M) - Maione F, De Pietri R, Feo A, Löffler F. Binary neutron star merger simulations with different initial orbital frequency and equation of state. Classical and Quantum Gravity, 2016, 33(17): 175009.
 
 ___
 
 ## Highlight
 
-* Long numerical simulations are needed. [[Binary Neutron Star#Inspiral phase]]
+* Long numerical simulations are needed. [[BNS Inspiral phase]]
     * The comparison of simulations starting from different initial orbital frequencies is a necessary and fundamental test to evaluate the accuracy of current numerical BNS simulations and their ability to model tidal effects.
 * Baryonic mass is always used as an input parameter in Lorene. [[Lorene#Bin_star]]
 	* Since the gravitational mass of each star is not conserved during the evolution but depends on the gravitational binding energy we decided to generate our initial models fixing the conserved Baryonic mass to $1.4 M_{\odot}$
@@ -19,7 +19,7 @@ ___
 		![[Pasted image 20201210192238.png]]
 	* The effect of the orbital eccentricity is clearly recognizable in the distance oscillations.
 		![[Pasted image 20201210194047.png]]
-* Binary starting with zero radial velocity. [[Binary Neutron Star#Merger TIme]]
+* Binary starting with zero radial velocity. [[BNS Merger TIme]]
 	* The simulations starting from a closer interbinary distance took longer to merge compared to ones starting from further apart, when comparing over the same distance before merger. 
 
 ## Estimate Orbital Eccentricity

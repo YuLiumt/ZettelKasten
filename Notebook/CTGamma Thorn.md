@@ -1,3 +1,3 @@
 # CTGamma Thorn
 
-- Z4c
+- [[Z4c]]

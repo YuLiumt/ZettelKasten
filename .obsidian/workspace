@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f803fe49d72c5066",
+        "id": "d771f6b7a64d2f4d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Notebook/Gravitational Wave.md",
             "mode": "source"
           }
         }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 181
+    "width": 181,
+    "collapsed": true
   },
   "right": {
     "id": "1ff87cd29d1eca20",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notebook/Gravitational Wave.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -92,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notebook/Gravitational Wave.md"
               }
             }
           }
@@ -104,15 +105,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Notebook/Eﬀective-one-body.md",
-    "Notebook/Frank Löffler.md",
-    "Notebook/Erik Schnetter.md",
-    "Notebook/Waveform Templates.md",
-    "Notebook/Binary Neutron Star.md",
+    "Notebook/Gravitational Wave.md",
+    "Gravitational Wave Extraction.md",
+    "Gravitational wave extraction.md",
+    "Article/Reisswig2011.md",
+    "Article/Maione2016.md",
     "Report/Report 2020-12-11.md",
-    "Report/Report 2020-12-05.md",
-    "Notebook/Kranc.md",
-    "Kranc.md"
+    "G.md",
+    "Untitled.md",
+    "Notebook/Binary Black Hole.md",
+    "BBH Orbital Eccentricity.md"
   ]
 }

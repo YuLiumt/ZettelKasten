@@ -1,0 +1,3 @@
+## BNS Magnetic field amplification
+
+Magnetic field amplification in BNS mergers happens mainly due to the Kelvin-Helmotz (KH) instability during the merger phase. The KH instability creates vortices in the shear layer after the two neutron stars come into contact, that amplify the [[Magnetic Field]], converting kinetic energy into turbulent energy and stretching the magnetic filed lines, producing a magnetic field exponential growth.

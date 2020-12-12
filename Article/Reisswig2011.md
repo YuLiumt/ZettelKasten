@@ -3,7 +3,7 @@
 * **Author**: Reisswig C, Pollney D.
 * **Summary**:
     
-* **Link**: [[Gravitational Wave]]
+* **Link**: [[Gravitational Wave Extraction]]
 - [ADS](https://ui.adsabs.harvard.edu/abs/2011CQGra..28s5015R/abstract) Reisswig C, Pollney D. Notes on the integration of numerical relativity waveforms. Classical and Quantum Gravity, 2011, 28(19): 195015.
 
 #in-progress
