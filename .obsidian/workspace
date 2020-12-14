@@ -4,47 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d771f6b7a64d2f4d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notebook/BNS - Merger TIme.md",
-            "mode": "source"
-          }
-        },
-        "group": "84223bbe8b386334"
-      },
-      {
-        "id": "7c3342e189a316b7",
+        "id": "62e7358d78d47979",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "localgraph",
+          "type": "markdown",
           "state": {
-            "file": "Notebook/BNS - Merger TIme.md",
-            "options": {
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.062707361156802
-            }
+            "file": "Article/DePietri2016.md",
+            "mode": "preview"
           }
-        },
-        "group": "84223bbe8b386334"
+        }
       }
     ],
     "direction": "vertical"
@@ -92,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 181,
-    "collapsed": true
+    "width": 187.0107650756836
   },
   "right": {
     "id": "1ff87cd29d1eca20",
@@ -109,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/BNS - Merger TIme.md",
+                "file": "Article/DePietri2016.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/BNS - Merger TIme.md"
+                "file": "Article/DePietri2016.md"
               }
             }
           }
@@ -136,15 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Notebook/BNS - Merger TIme.md",
-    "Notebook/BNS Merger TIme.md",
-    "Notebook/BNS  Tidal-driven ejecta.md",
-    "Notebook/BNS Tidal Deformability.md",
-    "Notebook/BNS  Collapse Time.md",
-    "Notebook/Gravitational Wave.md",
-    "Gravitational Wave Extraction.md",
-    "Gravitational wave extraction.md",
+    "Article/DePietri2016.md",
+    "Article/Kyutoku2014.md",
+    "Article/Maione2016.md",
     "Article/Reisswig2011.md",
-    "Article/Maione2016.md"
+    "Notebook/Gravitational Wave Extraction.md",
+    "Notebook/GW - FFI Integration.md",
+    "Notebook/Numerical Relativity.md",
+    "Notebook/Gravitational Wave.md",
+    "Notebook/pyGWAnalysis.md",
+    "Notebook/Python.md"
   ]
 }

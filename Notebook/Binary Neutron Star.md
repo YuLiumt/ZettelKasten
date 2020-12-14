@@ -6,15 +6,21 @@
 
 ## Merger stages
 
-- [[BNS Inspiral phase]]
+- [[BNS - Inspiral phase]]
+	- [[BNS - Orbit Eccentricity]]
 	- [[BNS - Merger TIme]]
-	- [[BNS Tidal Deformability]]
-	- [[BNS - Tidal-driven ejecta]]
-- [[BNS Merger Phase]]
-	- [[BNS Magnetic field amplification]]
-	- [[BNS Instabilities mode ]]
-	- [[BNS Collapse Time]]
-	- [[BNS Postmerger Spectrum]]
-	- [[BNS Shock-heated ejecta]]
-	- [[BNS Neutrino-driven winds]]
-	- [[BNS Magnetic-driven winds]]
+	- [[BNS - Tidal Deformability]]
+	- [[BNS - Dynamical ejecta]]
+- [[BNS - Merger Phase]]
+	- [[BNS - Magnetic field amplification]]
+	- [[BNS - Instabilities mode ]]
+	- [[BNS - Postmerger Spectrum]]
+	- [[BNS - Neutrino-driven winds]]
+	- [[BNS - Magnetic-driven winds]]
+	- [[BNS - Merger Fate]]
+
+## Multimessenger
+
+Besides emitting gravitational waves, binary neutron stars can emit also a wide range of electromagnetic signals and even neutrino signals. Different signals can be used to extract different and complementary information, to help reconstructing a picture of the source physics.
+
+- [[Kilonova]]

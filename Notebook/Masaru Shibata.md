@@ -13,4 +13,4 @@
 ## Publications
 
 * 2014
-	* [[Kyutoku2014]] Binary neutron star merger simulations with different initial orbital frequency and equation of state.
+	* [[Kyutoku2014]] Reducing orbital eccentricity in initial data of binary neutron stars.

@@ -1,4 +1,4 @@
-## BNS Inspiral phase
+## BNS - Inspiral phase
 
 The two stars rotate rapidly one around the other, and their distance shrinks due to the energy and angular momentum radiated away by [[Gravitational Wave]].
 

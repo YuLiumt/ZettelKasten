@@ -16,7 +16,7 @@
 * 2016
     * [[Maione2016]] Binary neutron star merger simulations with different initial orbital frequency and equation of state.
     * [[DePietri2016]] Modeling Equal and Unequal Mass Binary Neutron Star Mergers Using Public Codes.
-    * et al.
+* and so on.
 
 ## Projects
 

@@ -7,6 +7,8 @@ A thorn is the basic working module within [[Einstein Toolkit]]. All user suppli
 - Grid
 	- [[Carpet Thorn]]
 		- Adaptive mesh refinement
+	- [[MoL Thorn]]
+		- Runge-Kutta time integration
 - GRMHD
 	- [[McLachlan Thorn]]
 		- BSSN
@@ -26,5 +28,8 @@ A thorn is the basic working module within [[Einstein Toolkit]]. All user suppli
 		- neutrino radiation via a leakage scheme
 	- [[Spritz Thorn]]
 - Analysis
-	- [[WeylScal4 Thorn]]
-	- [[Multipole Thorn]]
+	- GW signal
+		- [[WeylScal4 Thorn]]
+		- [[Multipole Thorn]]
+	- Black Hole
+		- [[AHFinderDirect Thorn]]

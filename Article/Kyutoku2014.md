@@ -2,7 +2,8 @@
 
 * **Author**: Kyutoku K, [[Masaru Shibata]], Taniguchi K.
 * **Summary**:
-* **Link**: [[Binary Neutron Star]]
+	* We develop a method to compute low-eccentricity initial data of binary neutron stars.
+* **Link**: [[Binary Neutron Star]], [[Initial Data]], [[BNS - Orbit Eccentricity]]
 * [ADS](https://ui.adsabs.harvard.edu/abs/2014PhRvD..90f4006K) - Kyutoku K, Shibata M, Taniguchi K. Reducing orbital eccentricity in initial data of binary neutron stars. PRD, 2014, 90(6): 64006.
 
 #in-progress

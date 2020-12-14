@@ -2,7 +2,9 @@
 
 * **Author**: Maione, F.; De Pietri, R.; Feo, A. & [[Frank Löffler]]
 * **Summary**:
-    We present new long-term equal-mass BNS simulations with four different nuclear EOSs, starting with four different values of the interbinary distance d (40, 44.3, 50, and 60 km).
+    - We present long-term equal-mass BNS simulations with four different nuclear EOSs, starting with four different values of the interbinary distance d (40, 44.3, 50, and 60 km).
+	- The comparison of simulations starting from different initial orbital frequencies is a necessary and fundamental test to evaluate the accuracy of current numerical BNS simulations and their ability to model tidal effects.
+	- We analyzed the effect of the different initial interbinary distance on the post-merger gravitational signal.
 * **Link**: [[Binary Neutron Star]], [[Numerical Relativity]], [[Lorene]], [[Equation of State]], [[Gravitational Wave Extraction]]
 * [ADS](https://ui.adsabs.harvard.edu/abs/2016CQGra..33q5009M) - Maione F, De Pietri R, Feo A, Löffler F. Binary neutron star merger simulations with different initial orbital frequency and equation of state. Classical and Quantum Gravity, 2016, 33(17): 175009.
 
@@ -10,17 +12,54 @@ ___
 
 ## Highlight
 
-* Long numerical simulations are needed. [[BNS Inspiral phase]]
-    * The comparison of simulations starting from different initial orbital frequencies is a necessary and fundamental test to evaluate the accuracy of current numerical BNS simulations and their ability to model tidal effects.
-* Baryonic mass is always used as an input parameter in Lorene. [[Lorene#Bin_star]]
+* Long numerical simulations are needed. [[BNS - Inspiral phase]]
+    * It is quite obvious from the figure that all simulations with the same EOS agree well during the first part of the coalescence, and start to diverge in the plunge phase, where simulations starting from closer interbinary distances have a slower phase evolution.
+    	![[Pasted image 20201210192238.png]]
+* Baryonic mass is always used as an input parameter in Lorene. [[Lorene - Binaire]]
 	* Since the gravitational mass of each star is not conserved during the evolution but depends on the gravitational binding energy we decided to generate our initial models fixing the conserved Baryonic mass to $1.4 M_{\odot}$
-* imprint of a small eccentricity in the orbital evolution. [[Lorene#Bin_star]]
+* imprint of a small eccentricity in the orbital evolution. [[Lorene - Binaire]]
 	* The amplitude of the gravitational wave strain shows a characteristic oscillation in all our simulations.
-		![[Pasted image 20201210192238.png]]
 	* The effect of the orbital eccentricity is clearly recognizable in the distance oscillations.
 		![[Pasted image 20201210194047.png]]
+		$$
+	\begin{array}{|c|ccc|}
+	\hline & \mathrm{e} & \mathrm{e} & \mathrm{e} \\
+	\mathrm{EOS} & d=60 \mathrm{~km} & d=50 \mathrm{~km} & d=44.3 \mathrm{~km} \\
+	\hline \text { APR } 4 & 0.028 & 0.020 & 0.020 \\
+	\hline \text { SLy } & 0.025 & 0.019 & 0.020 \\
+	\hline \text { H4 } & 0.012 & 0.012 & 0.014 \\
+	\hline \text { MS1 } & 0.014 & 0.014 & 0.007 \\
+	\hline
+	\end{array}
+	$$
 * Binary starting with zero radial velocity. [[BNS - Merger TIme]]
 	* The simulations starting from a closer interbinary distance took longer to merge compared to ones starting from further apart, when comparing over the same distance before merger. 
+	* This effective merger time difference was found to be higher for more compact stars.
+* The post-merger effect should be checked again in simulations with higher resolutions and post-merger simulated time. [[BNS - Postmerger Spectrum]]
+	* Simulations starting from $d = 60 km$ have the dominant peak at a somewhat lower frequency (but still consistent with the error) than the others. 
+		 ![[Pasted image 20201212211152.png]]
+		$$
+	\begin{array}{|c|c|c|c|}
+	\hline \text { Model } & f_{p}(\mathrm{kHz}) & f_{-}(\mathrm{kHz}) & f_{\text {merger }}(\mathrm{kHz}) \\
+	\hline \text { APR4(a) } & 3.34 & 2.14 & 1.97 \\
+	\text { APR4(b) } & 3.26 & 2.08 & 1.97 \\
+	\text { APR4(c) } & 3.29 & 2.02 & 1.94 \\
+	\text { APR4(d) } & 3.19 & 2.02 & 1.87 \\
+	\hline \text { SLy(a) } & 3.19 & 2.15 & 1.92 \\
+	\text { SLy(b) } & 3.24 & 2.08 & 1.88 \\
+	\text { SLy(c) } & 3.13 & 2.03 & 1.87 \\
+	\text { SLy(d) } & 3.07 & 1.92 & 1.72 \\
+	\hline \text { H4(a) } & 2.38 & 1.64 & 1.44 \\
+	\text { H4(b) } & 2.39 & 1.66 & 1.46 \\
+	\text { H4(c) } & 2.35 & 1.64 & 1.44 \\
+	\text { H4(d) } & 2.24 & 1.58 & 1.41 \\
+	\hline \text { MS1(a) } & 2.05 & 1.42 & 1.29 \\
+	\text { MS1(b) } & 2.05 & 1.43 & 1.33 \\
+	\text { MS1(c) } & 2.07 & 1.39 & 1.32 \\
+	\text { MS1(d) } & 1.93 & 1.37 & 1.26 \\
+	\hline
+	\end{array}
+	$$
 
 ## Estimate Orbital Eccentricity
 
@@ -78,5 +117,5 @@ The fit is performed in the time interval between $t_{\mathrm{ret}}=3 \mathrm{~m
 	- We used a mirror symmetry across the $(x, y)$ plane consistent with the symmetry of the problem.
 	- The time integration is performed with a fourth-order Runge-Kutta method with a constant Courant factor of 0.25.
 	- The EOS is supplemented by a thermal component with $\Gamma_{\mathrm{th}}=1.8$.
-	- We extracted $\psi_{4}$ components up to $l = 6$. [[Multipole Thorn]]
-	- extracting $\psi_{4}$ at seven different equidistant radii from $R=400 \mathrm{CU}(591 \mathrm{~km})$ to $R=700 \mathrm{CU}(1034 \mathrm{~km})$. [[WeylScal4 Thorn]]
+	- We extracted $\psi_{4}$ components up to $l = 6$.
+	- extracting $\psi_{4}$ at seven different equidistant radii from $R=400 \mathrm{CU}(591 \mathrm{~km})$ to $R=700 \mathrm{CU}(1034 \mathrm{~km})$.

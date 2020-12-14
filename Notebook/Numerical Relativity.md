@@ -4,7 +4,7 @@ Tags: #important
 
 For all but the simplest systems, analytic solutions for the evolution of such systems do not exist. Hence the task of solving [[Einstein's equations]] must be performed numerically on a computer.
 
-- One of the most significant goals of numerical relativity is to compute accurate gravitational waveforms. [[Waveform Templates]]
+
 
 
 ## 3+1 Decomposition
@@ -17,3 +17,7 @@ For all but the simplest systems, analytic solutions for the evolution of such s
 
 * [[Binary Neutron Star]]
 * [[Binary Black Hole]]
+
+## Relationship Graph
+
+- One of the most significant goals of numerical relativity is to compute accurate gravitational waveforms. [[Waveform Templates]]

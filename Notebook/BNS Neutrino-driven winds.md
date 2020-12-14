@@ -1,1 +1,0 @@
-## BNS Neutrino-driven winds
