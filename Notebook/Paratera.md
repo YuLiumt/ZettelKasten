@@ -28,8 +28,6 @@ echo "Done!"
 
 The Environment Modules package is a tool that simplify shell initialization and lets users easily modify their environment.
 
-![image-20201207111415984](https://tva1.sinaimg.cn/large/0081Kckwgy1glf4dg2w2aj31ku09g0w7.jpg)
-
 ```sh
 source /public1/soft/modules/module.sh
 ```
@@ -55,5 +53,25 @@ sbatch ./Cactus ET 1 XXX.par
 ```
 make ET-config options=/public1/home/sc31924/generic.cfg THORNLIST=/public1/home/sc31924/einsteintoolkit.th CC=gcc FC=gfortran CXX=g++
 make ET
+```
+
+```bash
+source /public1/soft/modules/module.sh
+source /public1/home/sc31924/.bashrc
+make sim
+```
+
+
+Print the Machine Database entry for a single machine:
+
+```bash
+./simfactory/bin/sim whoami
+./simfactory/bin/sim print-mdb ln6.para.cstc
+```
+
+To list all existing Cactus configurations, use the following command
+e
+```bash
+./simfactory/bin/sim list-configurations
 ```
 

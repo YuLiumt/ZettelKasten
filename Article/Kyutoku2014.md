@@ -9,7 +9,6 @@
 #in-progress
 ___
 
-## TODO
 
 Manage following notes!
 
@@ -26,4 +25,5 @@ As a result, three successive iterations reduce the eccentricity, $e \sim 0.01,$
 The time to merger increases as the eccentricity decreases. This cannot be explained by strong gravitational radiation from an eccentric binary. Instead, this difference is ascribed to the initial semimajor axis of the binary.
 
 Both analytic estimation and numerical results indicate that **the eccentricity reduction has to be performed by improving initial data if we want to obtain the low-eccentricity, $e \lesssim 0.001$ inspiral** with current computational resources.
+
 

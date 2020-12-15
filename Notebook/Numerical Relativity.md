@@ -2,7 +2,7 @@
 
 Tags: #important
 
-For all but the simplest systems, analytic solutions for the evolution of such systems do not exist. Hence the task of solving [[Einstein's equations]] must be performed numerically on a computer.
+For all but the simplest systems, analytic solutions for the evolution of such systems do not exist. Hence the task of solving Einstein's equations must be performed numerically on a computer.
 
 
 
@@ -21,3 +21,4 @@ For all but the simplest systems, analytic solutions for the evolution of such s
 ## Relationship Graph
 
 - One of the most significant goals of numerical relativity is to compute accurate gravitational waveforms. [[Waveform Templates]]
+- Only rather exotic phenomena involve sufficiently strong spacetime curvature to require numerical relativity. [[Dimensionless Compaction]]

@@ -14,12 +14,24 @@
 
 * Huazhong University of Science and Technology [[HUST]]
 
+## Research Interests
+
+- Numerical Relativity
+	- Binary Neutron Star
+- Kilonova Remnant
+- Guest Star
+- Gamma-ray burst
+- Machine Learning
+
+
 ## Education
 
-* B.S. Changsha University of Science & Technology, 2012 - 2016
-* Ph.D Huazhong University of Science and Technology, 2016 - Now
+- 2016 – current  Ph.D Huazhong University of Science and Technology
+- 2012 - 2016      B.S.  Changsha University of Science & Technology
 
 ## Publications
+
+A list of my recent publications can be found on Google Scholar
 
 * 2019
 * and so on.
@@ -27,4 +39,4 @@
 ## Projects
 
 - CactusTool
-* [[Einstein Toolkit]]
+- [[Einstein Toolkit]]
