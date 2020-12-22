@@ -17,6 +17,8 @@ $$
 
 In practice, the integration is not performed from $t=-\infty$, but starts at a particular point, the beginning of the simulation. 
 
+- [[GW - Higher-order modes]]
+
 ## Numerical integration
 
 Transforming the measured variables to the strain involves some numerical subtleties.
@@ -36,7 +38,9 @@ By eliminating these systematic errors, one would
 - Propagating the signal obtained at finite radius to null infinity with an analytic formula based on the results of perturbation theory of the Schwarzschild (or Kerr) spacetime.
 - Performing a characteristic evolution using as inner boundary conditions the metric and its derivatives on a timelike worldtube (CCE).
 
+## Software
 
+- [[POWER]]
 
 
 ## Relationship Graph

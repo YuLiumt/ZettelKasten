@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ce7ab4745544602b",
+        "id": "621aa4601d80db89",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TwoPunctures Thorn.md",
+            "file": "Article/Cipolletta2020.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Illinois",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,11 +57,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 170.00868225097656
+    "width": 171.00868225097656,
+    "collapsed": true
   },
   "right": {
     "id": "1ff87cd29d1eca20",
@@ -77,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TwoPunctures Thorn.md",
+                "file": "Article/Cipolletta2020.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -92,11 +94,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TwoPunctures Thorn.md"
+                "file": "Article/Cipolletta2020.md"
+              }
+            }
+          },
+          {
+            "id": "3d943a540dce2842",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -104,15 +117,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "TwoPunctures Thorn.md",
-    "Simulation Factory.md",
-    "Roland Haas.md",
-    "Linux.md",
-    "Illinois.md",
-    "Notebook/LSU.md",
-    "Notebook/Yu Liu.md",
-    "Untitled.md",
-    "Attachment/haas2.jpg",
-    "Notebook/Frank Löffler.md"
+    "Article/Cipolletta2020.md",
+    "Article/Reisswig2011.md",
+    "Article/Kyutoku2014.md",
+    "Article/Huerta2019.md",
+    "Article/Habib2019.md",
+    "Article/Giacomazzo2011.md",
+    "Article/DePietri2016.md",
+    "Notebook/Spritz Thorn.md",
+    "Notebook/Linux.md",
+    "Notebook/Slurm.md"
   ]
 }

@@ -2,6 +2,10 @@
 
 In the EOB formalism, higher-order PN correction is included by re-summation techniques and calibrated by comparing the model waveforms with those derived by numerical-relativity simulations of [[Binary Black Hole]].
 
+These analytic techniques are useful for quickly computing waveform templates to matched filtering searches in GW detector data analysis.
+
+The role of Numerical Relativity (NR) in this regime is mainly to test and help improve the properties of these analytic techniques. However, one has to keep in mind that such comparison and improvement would need the use of NR data extrapolated at infinite resolutions or at a resolution where discretization errors are negligible.
+
 ## Model
 
 The template strongly depends on the specific theoretical model of GW source.

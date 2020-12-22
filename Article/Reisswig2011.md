@@ -1,4 +1,4 @@
-# Notes on the integration of numerical relativity waveforms
+## Notes on the integration of numerical relativity waveforms
 
 - **Author**: Reisswig C, Pollney D.
 - **Summary**:

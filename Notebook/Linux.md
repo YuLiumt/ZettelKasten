@@ -6,10 +6,16 @@ So, basically, a shell is a program that receives commands from the user and giv
 
 ## Commands
 
-- find
-	- Locate files within a given directory
-		```bash
-		find . -name "*.c"
-		```
-- which
-- whereis
+### find
+Locate files within a given directory
+```bash
+find . -name "*.c"
+```
+
+### which
+
+### whereis
+
+### top
+
+For Memory usage, the number you are interested in is RES

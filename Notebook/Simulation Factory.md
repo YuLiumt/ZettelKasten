@@ -1,6 +1,6 @@
 ## Simulation Factory
 
-The Simulation Factory provides capabilities for compiling and deploying a Cactus application on machines and ging simulations.
+The Simulation Factory provides capabilities for compiling and deploying a [[Cactus]] application on machines and ging simulations.
 
 The Simulation Factory is typically placed into a `simfactory` folder inside a Cactus source tree.
 

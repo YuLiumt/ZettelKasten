@@ -1,6 +1,6 @@
 ## Thorns
 
-A thorn is the basic working module within [[Einstein Toolkit]]. All user supplied code goes into thorns, which are, by and large, independent of each other.
+The thorns are the basic modules of [[Cactus]]. They are largely independent of each other and communicate via calls to the [[Flesh]] API. Thorns are collected into logical groupings called arrangements.
 
 ## Modules
 
@@ -10,7 +10,9 @@ A thorn is the basic working module within [[Einstein Toolkit]]. All user suppli
 	- [[MoL Thorn]]
 		- Runge-Kutta time integration
 - Initial Data
+	- TOVSolver Thorn
 	- [[TwoPunctures Thorn]]
+	- Meudon
 - GRMHD
 	- [[McLachlan Thorn]]
 		- BSSN
@@ -35,5 +37,8 @@ A thorn is the basic working module within [[Einstein Toolkit]]. All user suppli
 		- [[Multipole Thorn]]
 	- Black Hole
 		- [[AHFinderDirect Thorn]]
+		- PunctureTracker Thorn
+	- Matter
+		- Outflow Thorn
 - CactusUtils
 	- [[SystemStatistics Thorn]]

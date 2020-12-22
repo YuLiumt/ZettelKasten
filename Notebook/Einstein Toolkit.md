@@ -1,12 +1,12 @@
 ## Einstein Toolkit
 
-Tags: #important 
+![[Pasted image 20201217215358.png|180]]
 
-The Einstein Toolkit is a free, publicly available, community-driven [[General Relativity]] (GR) code based on the Cactus Framework. 
+[Homepage](http://einsteintoolkit.org/index.html) 
 
-Cactus is a component framework. Its components are called [[Thorns]] whereas the framework itself is called the [[Flesh]].
+The Einstein Toolkit (ET) is an open-source computational infrastructure for that allows to solve the Einstein's Equations coupled to Matter on a three-dimensional grid.
 
-> The Cactus API supports C/C++ and F77/F90 programming languages for the thorns. This makes it easier for scientists to turn existing codes into thorns which can then make use of the complete Cactus infrastructure, and in turn be used by other thorns within Cactus.
+The Einstein Toolkit is a free, publicly available, community-driven General Relativity (GR) code based on the Cactus Framework. 
 
 ## Computational Units (CU)
 
@@ -31,3 +31,18 @@ The General Relativistic Hydrodynamics (GRHD) equations are solved by the module
 - Code Generate
 	- [[Kranc]]
 	- NRPy+
+- Repositories
+	- [[Zenodo]]
+	- [[DataVault]]
+	- [[CoRe]]
+	- Georgia Tech (GT)
+	- Rochester Institute of Technology (RIT)
+	- Simulating eXtreme Spacetimes (SXS)
+	- Illinois Data Bank (IDB)
+	- Federated Research Data Repository (FRDR)
+
+## Challenge for the future
+
+- New physics: neutrino transport, photon radiation transport
+- Data, visualization, profiling tools, debugging tools, tools to run codes
+- Growing complexity of application, programming models, architectures.

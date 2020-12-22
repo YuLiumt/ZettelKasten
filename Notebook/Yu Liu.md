@@ -1,7 +1,5 @@
 # Yu Liu
 
-#important 
-
 ![[YuLiu.jpeg]]
 
 * [Homepage](https://yuliumt.github.io)

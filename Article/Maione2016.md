@@ -1,4 +1,4 @@
-#  Binary neutron star merger simulations with different initial orbital frequency and equation of state.
+##  Binary neutron star merger simulations with different initial orbital frequency and equation of state.
 
 * **Author**: Maione, F.; De Pietri, R.; Feo, A. & [[Frank Löffler]]
 * **Summary**:

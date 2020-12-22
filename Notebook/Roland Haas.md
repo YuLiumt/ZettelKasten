@@ -17,6 +17,6 @@
 
 ## Projects
 
-- POWER
+- [[POWER]]
 - [[Einstein Toolkit]]
 	- Outflow
