@@ -14,7 +14,7 @@
 ## Publications
 
 - 2020
-	- [[Cipolletta2020]] Spritz: General Relativistic Magnetohydrodynamics with Neutrinos
+	- [[Cipolletta2020b]] Spritz: General Relativistic Magnetohydrodynamics with Neutrinos
 - and so on.
 
 ## Projects

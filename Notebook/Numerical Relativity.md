@@ -2,6 +2,12 @@
 
 For all but the simplest systems, analytic solutions for the evolution of such systems do not exist. Hence the task of solving Einstein's equations must be performed numerically on a computer.
 
+## Initial Value Problem
+
+- [[NR - Initial Data]]
+- [[NR - Evolution]]
+- [[NR - Boundary conditions]]
+
 ## Equations
 
 - Einstein Equations
@@ -26,7 +32,7 @@ For all but the simplest systems, analytic solutions for the evolution of such s
 
 ## History
 
-- A major step forward occurred 2005, when three independent groups developed two different techniques, the generalised harmonic [[Gauge]] formalism and the socalled [[Moving Puncture]] method, to evolve vacuum spacetimes containing [[Black Hole]] without encountering numerical instabilities that mark the end of a numerical simulation.
+- A major step forward occurred 2005, when three independent groups developed two different techniques, the generalised harmonic [[NR - Gauge conditions]] formalism and the socalled [[Moving Puncture]] method, to evolve vacuum spacetimes containing [[Black Hole]] without encountering numerical instabilities that mark the end of a numerical simulation.
 
 ## Source
 
@@ -37,5 +43,6 @@ For all but the simplest systems, analytic solutions for the evolution of such s
 
 ## Relationship Graph
 
+- Gravitational wave observations have been a key motivation driving numerical relativity.
 - One of the most significant goals of numerical relativity is to compute accurate gravitational waveforms. [[Waveform Templates]]
 - Only rather exotic phenomena involve sufficiently strong spacetime curvature to require numerical relativity. [[Dimensionless Compaction]]

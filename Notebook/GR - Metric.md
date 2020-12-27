@@ -1,4 +1,4 @@
-## Metric
+## GR - Metric
 
 The metric tensor of four-dimensional spacetime is denoted by $g_{a b}$ and determines the invariant interval (distance) between two nearby events in spacetime according to
 

@@ -19,6 +19,6 @@ The numerical results show that the merger process and the first outcome are cla
 
 - the final product of the merger of binary neutron stars is an open question depending not only on the nuclear [[Equation of State]] for high density neutron matter but also on the rotational profile of the merged object [[Hypermassive neutron stars]].
 
-- [[NS - Maximum Mass]]
+- [[NS - Mass]]
 - [[Gravitational Wave]]
 - [[Gamma-ray burst]]

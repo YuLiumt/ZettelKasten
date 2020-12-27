@@ -1,4 +1,4 @@
-## Vector
+## GR - Vector
 
 For any set of basis vectors, a four-vector $\mathbf{A}$ can be expanded in contravariant components,
 

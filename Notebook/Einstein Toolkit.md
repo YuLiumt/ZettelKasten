@@ -46,3 +46,12 @@ The General Relativistic Hydrodynamics (GRHD) equations are solved by the module
 - New physics: neutrino transport, photon radiation transport
 - Data, visualization, profiling tools, debugging tools, tools to run codes
 - Growing complexity of application, programming models, architectures.
+
+## Users
+
+- [[Masaru Shibata]]
+- [[Frank Löffler]]
+- [[Roland Haas]]
+- [[Bruno Giacomazzo]]
+- [[Riccardo Ciolfi]]
+- [[Yu Liu]]

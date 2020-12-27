@@ -1,4 +1,4 @@
-## Initial Data
+## NR - Initial Data
 
 Physically valid initial data have to satisfy the Hamiltonian and momentum constraints at the very least, and some quasiequilibrium assumptions are desired to be met for astrophysically realistic binary initial data.
 

@@ -4,9 +4,21 @@ The theory of general relativity, postulated by Albert Einstein at the end of 19
 
 ## Geometrical framework
 
-- [[Metric]]
-- [[Vector]]
-- [[Dual vector]]
+- [[GR - Metric]]
+- [[GR - Vector]]
+- [[GR - Dual vector]]
 - Tensor
-- [[Covariant derivative]]
-- [[Lie derivative]]
+- [[GR - Covariant derivative]]
+- [[GR - Lie derivative]]
+
+## Analytic solutions
+
+Although the general formula look very simple, the difficulties are hidden in the form in which they are written down. General Relativity is now known for nearly one century, but only a few analytic solutions with astrophysical relevance are known. Even those are very simple compared to reality. In the following, we will look shortly into some of them.
+
+- [[Minkowski]]
+- [[Schwarzschild]]
+- [[Kerr]]
+
+## Numerical solutions
+
+- [[3+1 Formalism]]

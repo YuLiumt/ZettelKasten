@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "621aa4601d80db89",
+        "id": "af7a3047acaf8a75",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/Cipolletta2020.md",
+            "file": "Notebook/Quark.md",
             "mode": "preview"
           }
         }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/Cipolletta2020.md",
+                "file": "Notebook/Quark.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/Cipolletta2020.md"
+                "file": "Notebook/Quark.md"
               }
             }
           },
@@ -117,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Article/Cipolletta2020.md",
-    "Article/Reisswig2011.md",
-    "Article/Kyutoku2014.md",
-    "Article/Huerta2019.md",
-    "Article/Habib2019.md",
-    "Article/Giacomazzo2011.md",
+    "Quark.md",
+    "Article/Zha2020.md",
+    "Article/Ajith2007.md",
     "Article/DePietri2016.md",
-    "Notebook/Spritz Thorn.md",
-    "Notebook/Linux.md",
-    "Notebook/Slurm.md"
+    "Article/Giacomazzo2011.md",
+    "Article/Habib2019.md",
+    "Article/Huerta2019.md",
+    "Article/Kyutoku2014.md",
+    "Article/Maione2016.md",
+    "Article/Reisswig2011.md"
   ]
 }

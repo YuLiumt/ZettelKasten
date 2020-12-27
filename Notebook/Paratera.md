@@ -99,3 +99,11 @@ if [ -d /public1/home/sc31924/simulations/${name} ]; then
     rm -rf /public1/home/sc31924/simulations/${name}
 fi
 ```
+
+## 使用 conda
+
+```bash
+source /public1/soft/modules/module.sh
+module load anaconda/python3.6.5-tensorflow1.8.0-thc
+source activate nlp
+```

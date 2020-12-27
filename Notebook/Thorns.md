@@ -31,6 +31,8 @@ The thorns are the basic modules of [[Cactus]]. They are largely independent of 
 		- finite temperature tabulated equations of state
 		- neutrino radiation via a leakage scheme
 	- [[Spritz Thorn]]
+- Equation of State
+	- [[EOS_Omni Thorn]]
 - Analysis
 	- GW signal
 		- [[WeylScal4 Thorn]]

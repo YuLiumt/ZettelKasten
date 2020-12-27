@@ -6,7 +6,7 @@
 	* The eccentricity can be reduced by an order of magnitude compared to standard quasicircular initial data, specifically from $\sim 0.01$ to $\lesssim 0.001$.
 	* Low eccentricity initial data exhibit smaller modulations in evolution of the orbital separation, gravitational-wave amplitude, and gravitational-wave frequency than quasicircular initial data.
 	* The eccentricity could affect properties of remnant massive neutron stars and mass ejection from the system, and hence electromagnetic signals.
-* **Link**: [[Binary Neutron Star]], [[Initial Data]]
+* **Link**: [[Binary Neutron Star]], [[NR - Initial Data]]
 * [ADS](https://ui.adsabs.harvard.edu/abs/2014PhRvD..90f4006K) Kyutoku K, Shibata M, Taniguchi K. Reducing orbital eccentricity in initial data of binary neutron stars. PRD, 2014, 90(6): 64006.
 
 ___

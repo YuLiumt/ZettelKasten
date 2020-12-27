@@ -13,7 +13,8 @@
 
 ## Publications
 
-
+- 2019
+	- [[Huerta2019]] Physics of eccentric binary black hole mergers: A numerical relativity perspective.
 
 ## Projects
 

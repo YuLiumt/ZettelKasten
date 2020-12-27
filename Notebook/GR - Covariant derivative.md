@@ -1,4 +1,4 @@
-## Covariant derivative
+## GR - Covariant derivative
 
 The covariant derivative of an arbitrary tensor $\mathbf{T}$ is also a tensor and it measures the change of $\mathbf{T}$ with respect to parallel transport. For example, a mixed rank-2 tensor with components $T^{a}_{\;b}$, the covariant derivative is a tensor of rank 3 and its components are
 
@@ -17,3 +17,14 @@ In a local Lorentz frame, the Christoffel symbols vanish. The covariant derivati
 This equation shows that the derivative of a vector is more that just the derivative of its components. One must also take into account the change in the basis vectors.
 > 
 >The connection coefficients are not tensor. This is found, e.g., from the fact that they vanish in a local Lorentz frame at which $g_{a b} = \eta_{a b}$ where $\eta_{a b}$ denotes the flat, Minkowski metric.
+
+
+$$
+\nabla_{\mu} V^{\mu}=\frac{1}{\sqrt{|g|}} \partial_{\mu}\left(\sqrt{|g|} V^{\mu}\right)
+$$
+$$
+\nabla_{\mu} V^{\mu}=\partial_{\mu} V^{\mu}+\Gamma_{\mu \lambda}^{\mu} V^{\lambda}
+$$
+$$
+\Gamma_{\mu \lambda}^{\mu}=\frac{1}{\sqrt{|g|}} \partial_{\mu} \sqrt{|g|}
+$$

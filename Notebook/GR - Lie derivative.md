@@ -1,4 +1,4 @@
-## Lie derivative
+## GR - Lie derivative
 
 Consider a (non-zero) vector field $X^{a}$ in a manifold $M$. We can find the integral curves $x^{a}(\lambda)$ of $X^{a}$ by integrating the ordinary differential equations
 

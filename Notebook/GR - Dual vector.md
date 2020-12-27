@@ -1,4 +1,4 @@
-## Dual vector
+## GR - Dual vector
 
 Now introduce a set of basis 1-forms $\tilde{\omega}^{a}$ dual to the basis vectors $\mathbf{e}_{a}$. An arbitrary 1-form $\tilde{\mathbf{B}}$ can be expanded in its covariant components according to
 

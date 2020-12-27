@@ -15,7 +15,7 @@
 ## Publications
 
 - 2020
-	- [[Cipolletta2020]] Spritz: General Relativistic Magnetohydrodynamics with Neutrinos
+	- [[Cipolletta2020b]] Spritz: General Relativistic Magnetohydrodynamics with Neutrinos
 - 2011
 	- [[Giacomazzo2011]] Accurate evolutions of inspiralling and magnetized neutron stars: Equal-mass binaries.
 - and so on.
