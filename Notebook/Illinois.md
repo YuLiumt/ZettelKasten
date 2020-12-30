@@ -4,4 +4,6 @@
 
 ## Scientists
 
+- [[Stuart L. Shapiro]]
 - [[Roland Haas]]
+- [[Eliu Huerta]]

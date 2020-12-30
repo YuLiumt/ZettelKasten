@@ -100,10 +100,18 @@ if [ -d /public1/home/sc31924/simulations/${name} ]; then
 fi
 ```
 
-## 使用 conda
+## python
 
+### 使用 Conda
+
+- load 必要模块
 ```bash
 source /public1/soft/modules/module.sh
 module load anaconda/python3.6.5-tensorflow1.8.0-thc
 source activate nlp
+```
+- 联网
+```bash
+export http_proxy=http://172.16.3.223:8888
+export https_proxy=http://172.16.3.223:8888
 ```

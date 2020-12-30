@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notebook/Quark.md",
+            "file": "Article/Schmidt2015.md",
             "mode": "preview"
           }
         }
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/Quark.md",
+                "file": "Article/Schmidt2015.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/Quark.md"
+                "file": "Article/Schmidt2015.md"
               }
             }
           },
@@ -116,15 +117,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Quark.md",
-    "Article/Zha2020.md",
-    "Article/Ajith2007.md",
-    "Article/DePietri2016.md",
-    "Article/Giacomazzo2011.md",
+    "Article/Schmidt2015.md",
+    "Notebook/Zachariah Etienne.md",
+    "Notebook/Einstein Toolkit.md",
+    "README.md",
+    "Article/Habib2020.md",
+    "Notebook/Python.md",
+    "Eliu Huerta.md",
     "Article/Habib2019.md",
     "Article/Huerta2019.md",
-    "Article/Kyutoku2014.md",
-    "Article/Maione2016.md",
-    "Article/Reisswig2011.md"
+    "Notebook/Illinois.md"
   ]
 }

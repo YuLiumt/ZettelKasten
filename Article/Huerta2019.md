@@ -1,6 +1,6 @@
 ## Physics of eccentric binary black hole mergers: A numerical relativity perspective
 
-- **Author**: Huerta E A, [[Roland Haas]], Habib S, Gupta A, Rebei A, Chavva V, Johnson D, Rosofsky S, Wessel E, Agarwal B, Luo D, Ren W.
+- **Author**: [[Eliu Huerta]], [[Roland Haas]], Habib S, Gupta A, Rebei A, Chavva V, Johnson D, Rosofsky S, Wessel E, Agarwal B, Luo D, Ren W.
 - **Summary**:
 	- A catalog of 89 numerical relativity waveforms that describe binary systems of non-spinning black holes with mass-ratios $1 \leq q \leq 10,$ and initial eccentricities as high as $e_{0}=0.18$ fifteen cycles before merger.
 	- We provide a systematic study of the circularization of eccentric BBH mergers with $q \leq 10$ and $e_{0} \lesssim 0.18$ fifteen cycles before merger.
