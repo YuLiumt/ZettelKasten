@@ -5,10 +5,11 @@ The thorns are the basic modules of [[Cactus]]. They are largely independent of 
 ## Modules
 
 - Grid
+	- [[CoordBase Thorn]]
+	- [[Coordinates Thorn]]
+	- [[CartGrid3D Thorn]]
 	- [[Carpet Thorn]]
-		- Adaptive mesh refinement
 	- [[MoL Thorn]]
-		- Runge-Kutta time integration
 - Initial Data
 	- TOVSolver Thorn
 	- [[TwoPunctures Thorn]]

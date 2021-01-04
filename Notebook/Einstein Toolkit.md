@@ -35,12 +35,6 @@ The General Relativistic Hydrodynamics (GRHD) equations are solved by the module
 - Repositories
 	- [[Zenodo]]
 	- [[DataVault]]
-	- [[CoRe]]
-	- Georgia Tech (GT)
-	- Rochester Institute of Technology (RIT)
-	- Simulating eXtreme Spacetimes (SXS)
-	- Illinois Data Bank (IDB)
-	- Federated Research Data Repository (FRDR)
 
 ## Challenge for the future
 

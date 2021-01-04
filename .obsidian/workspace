@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "af7a3047acaf8a75",
+        "id": "606abcac49fb67a3",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/Schmidt2015.md",
+            "file": "Article/Loffler2012.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#in-progress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/Schmidt2015.md",
+                "file": "Article/Loffler2012.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/Schmidt2015.md"
+                "file": "Article/Loffler2012.md"
               }
             }
           },
@@ -117,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Article/Schmidt2015.md",
-    "Notebook/Zachariah Etienne.md",
-    "Notebook/Einstein Toolkit.md",
-    "README.md",
-    "Article/Habib2020.md",
-    "Notebook/Python.md",
-    "Eliu Huerta.md",
-    "Article/Habib2019.md",
-    "Article/Huerta2019.md",
-    "Notebook/Illinois.md"
+    "Loffler2012.md",
+    "Research Group/Roland Haas.md",
+    "Research Group/Erik Schnetter.md",
+    "Research Group/Frank Löffler.md",
+    "Article/Zilhao2013.md",
+    "Untitled.md",
+    "Article/Zha2020.md",
+    "Notebook/Carpet Thorn.md",
+    "CoordBase Thorn.md",
+    "Notebook/Thorns.md"
   ]
 }

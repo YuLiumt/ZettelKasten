@@ -5,7 +5,7 @@
 	- An open source Python tools for initial data production and eccentricity reduction of spinning black hole binaries.
 		- NRPyPN provides the zeroth estimate for low-eccentricity initial data. [[NRPy+]]
 		- The process of eccentricity reduction using EccRed.
-- **Link**: [[Binary Black Hole]], [[BBH - Orbit Eccentricity]]
+- **Link**: [[Binary Black Hole]], [[BBH - Orbital Eccentricity]]
 - [ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201108878H) Habib S, Ramos-Buades A, Huerta E A, Husa S, Haas R, Etienne Z. Initial Data and Eccentricity Reduction Toolkit for Binary Black Hole Numerical Relativity Waveforms. arXiv:2011.08878.
 
 ___

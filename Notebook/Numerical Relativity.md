@@ -46,3 +46,17 @@ For all but the simplest systems, analytic solutions for the evolution of such s
 - Gravitational wave observations have been a key motivation driving numerical relativity.
 - One of the most significant goals of numerical relativity is to compute accurate gravitational waveforms. [[Waveform Templates]]
 - Only rather exotic phenomena involve sufficiently strong spacetime curvature to require numerical relativity. [[Dimensionless Compaction]]
+
+## Catalog
+
+- [[SXS Catalog]]
+- [[CoRe]]
+- Georgia Tech (GT)
+- Rochester Institute of Technology (RIT)
+- Illinois Data Bank (IDB)
+- Federated Research Data Repository (FRDR)
+
+## Tools
+
+- [[Einstein Toolkit]]
+- [[SpEC]]

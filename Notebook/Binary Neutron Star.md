@@ -30,3 +30,4 @@ In the description of the BNS mergers are involved essentially three stages, the
 Besides emitting gravitational waves, binary neutron stars can emit also a wide range of electromagnetic signals and even neutrino signals. Different signals can be used to extract different and complementary information, to help reconstructing a picture of the source physics.
 
 - [[Kilonova]]
+	- Among various possible EM counterparts, a kilonova is one of the most promising EM transients, which occurs as a result of the mass ejection during the merger and the post-merger process.

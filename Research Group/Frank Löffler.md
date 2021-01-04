@@ -13,10 +13,14 @@
 
 ## Publications
 
-* 2016
-    * [[Maione2016]] Binary neutron star merger simulations with different initial orbital frequency and equation of state.
-    * [[DePietri2016]] Modeling Equal and Unequal Mass Binary Neutron Star Mergers Using Public Codes.
-* and so on.
+- 2016
+    - [[Maione2016]] Binary neutron star merger simulations with different initial orbital frequency and equation of state.
+    - [[DePietri2016]] Modeling Equal and Unequal Mass Binary Neutron Star Mergers Using Public Codes.
+- 2013
+	- [[Zilhao2013]] An Introduction to the Einstein Toolkit.
+- 2012
+	- [[Loffler2012]] The Einstein Toolkit: A Community Computational Infrastructure for Relativistic Astrophysics.
+- and so on.
 
 ## Projects
 

@@ -3,7 +3,8 @@
 ## Merger stages
 
 - [[BBH - Inspiral Phase]]
-	- [[BBH - Orbit Eccentricity]]
+	- [[BBH - Orbital Eccentricity]]
+	- [[BBH - Orbital Precession]]
 - [[BBH - Merger Phase]]
 - [[BBH - Ringdown Phase]]
 
@@ -13,9 +14,7 @@
 
 - Intrinsic parameters
 	- masses - defined as the gravitational masses of the BHs in isolation
-	- spins 
-		- magnitude 
-		- orientation
+	- $\chi_{\text {eff}}$ - the mass-weighted sum of spins projected along the direction perpendicular to the orbital plane.
 - Additional parameters
 	- location
 		- luminosity distance $D_{L}$
@@ -27,3 +26,4 @@
 	-  coalescence time $t_{c}$
 	-  coalescence phase $\phi_{c}$
 	-  eccentricity $e$
+

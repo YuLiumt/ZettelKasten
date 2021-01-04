@@ -5,7 +5,7 @@
 	- Once the data products of NR simulations are post-processed, and NR waveforms are extracted, it is necessary to characterize them, i.e., we need to quantify the eccentricity and other orbital parameters that uniquely identify them.
 	- We introduced a method to characterize numerical relativity waveforms that describe nonspinning black holes on moderately eccentric orbits.
 	- This method provides a robust characterization of eccentric binary black hole mergers with mass-ratios $q \leq 10$ and eccentricities $e_{0} \leq 0.2$ fifteen cycles before merger.
-- **Link**: [[Binary Black Hole]], [[BBH - Orbit Eccentricity]]
+- **Link**: [[Binary Black Hole]], [[BBH - Orbital Eccentricity]]
 - [ADS](https://ui.adsabs.harvard.edu/abs/2019PhRvD.100d4016H) Habib S, Huerta E A. Characterization of numerical relativity waveforms of eccentric binary black hole mergers. PRD, 2019, 100(4): 44016.
 
 ___

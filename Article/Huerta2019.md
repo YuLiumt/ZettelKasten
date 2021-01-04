@@ -23,7 +23,7 @@ ___
 	$$
 	-  These results also show that that for systems with $q \geq 5$ it is essential to include higher-order waveform modes to accurately describe the dynamics of eccentric BBH mergers.
 		![[Pasted image 20201217134250.png]]
-- Final properties of the black hole remnant. [[BBH - Orbit Eccentricity]]
+- Final properties of the black hole remnant. [[BBH - Orbital Eccentricity]]
 	- The final mass and spin of the BH remnant are nearly independent of eccentricity in the range $e_{0} \leq 0.2$.
 		![[Pasted image 20201217184043.png]]
 - The circularization of moderately eccentric BBH mergers.

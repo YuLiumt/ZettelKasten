@@ -15,3 +15,8 @@ Excellent laboratory to study high-density nuclear physics and EOS.
 - [[NS - Mass]]
 - [[NS - Radius]]
 - [[NS - Spin]]
+
+## Open Questions
+
+- Whether their interiors harbour deconfined quark matter. [[Quark]]
+	- [[NS - mass-radius diagram]]

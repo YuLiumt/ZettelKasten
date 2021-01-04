@@ -77,7 +77,7 @@ echo "Done."
 ```bash
 $ cd ~/Desktop
 $ ls CactusPar/
-$ sbatch cactus.sh <exe> <XXX.par> # <exe>为编译好的名字，如zou。注意参数文件名，确保不覆盖原有文件夹！
+$ sbatch cactus.sh <XXX.par> # <exe>为编译好的名字，如zou。注意参数文件名，确保不覆盖原有文件夹！
 ```
 - 查看作业状态 
 ```bash

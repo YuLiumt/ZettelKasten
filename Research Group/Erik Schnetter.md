@@ -13,10 +13,14 @@
 
 ## Publications
 
-- et al.
+- 2010
+	- [[Thomas2010]] Simulation Factory: Taming Application Configuration and Workflow on High-End Resources.
+- 2012
+	- [[Loffler2012]] The Einstein Toolkit: A Community Computational Infrastructure for Relativistic Astrophysics.
+- and so on.
 
 ## Projects
 
-- [[Carpet Thorn]] Carpet is a mesh refinement infrastructure for the Cactus framework. 
 - [[Kranc]] is an automated code generation system that creates complete Cactus modules from Mathematica equations.
 - [[Einstein Toolkit]]
+	- [[Carpet Thorn]] Carpet is a mesh refinement infrastructure for the Cactus framework. 

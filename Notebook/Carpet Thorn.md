@@ -1,6 +1,6 @@
 # Carpet Thorn
 
-[Carpet](www.carpetcode.org) is a mesh-refinement driver mainly developed by [[Erik Schnetter]].
+[Carpet](https://www.carpetcode.org) is a mesh-refinement driver mainly developed by [[Erik Schnetter]].
 
 [[Adaptive mesh refinement]]
 

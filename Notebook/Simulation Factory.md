@@ -167,3 +167,13 @@ When a simulation is submitted for the first time, all necessary information fro
 The SIMFACTORY folder contains the executable, the necessary script files for submission and execution, and a `properties.ini` file that is used by the Simulation Factory to store information about the simulation.
 
 Each time a simulation is either run or submitted, a restart directory is created underneath the simulation directory. This restart folder has a name of the format "output-####", starting with "output-0000".
+
+## Checkpoints
+
+Currently simfactory stores the checkpoints for each restart in their own directory.
+
+One solution to this would be for SimFactory to store the checkpoints in a directory above the output-NNNN directories and make the current checkpoints directories under output-NNNN symbolic links to the common directory. This way, all restarts would see the same directory for checkpoint files, and Cactus could clean up the old checkpoints.
+
+SimFactory's philosophy is that each restart is independent of the other restarts.
+
+One problem in long-running simulations is that (a) one may accidentally delete too many checkpoints, so that the simulation becomes unusable. Another problem is that, if an error in the simulation is detected and if all old checkpoints have been deleted, it is impossible to "go back in time".

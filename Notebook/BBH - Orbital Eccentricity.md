@@ -1,4 +1,4 @@
-## BBH - Orbit Eccentricity
+## BBH - Orbital Eccentricity
 
 Due to the circularization effect of gravitational radiation, ones may expect that the binary black hole systems are always near circular when they enter the LIGO frequency band. But recent investigations show it is not absolutely true.
 
