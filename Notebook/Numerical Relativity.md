@@ -32,6 +32,8 @@ For all but the simplest systems, analytic solutions for the evolution of such s
 
 ## History
 
+The first fully general relativistic (GR) simulations of merging NS-NS binaries were reported in 1999. However, systems containing BHs proved much more difficult to evolve numerically until 2005.
+
 - A major step forward occurred 2005, when three independent groups developed two different techniques, the generalised harmonic [[NR - Gauge conditions]] formalism and the socalled [[Moving Puncture]] method, to evolve vacuum spacetimes containing [[Black Hole]] without encountering numerical instabilities that mark the end of a numerical simulation.
 
 ## Source

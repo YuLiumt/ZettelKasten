@@ -13,3 +13,6 @@ Carpet can run on several processors in parallel using MPI for communication. Ea
 In order to allow multiple processors to run efficiently in parallel, the grid is broken down into several rectangular components, and each processor is assigned one of these components.
 
 The components will usually overlap by a few grid points, so as to allow the processors to e.g. calculate spatial derivatives (which require neighboring grid points) without having to communicate for every grid point. From time to time it is then necessary to synchronise the overlapping region, which is the only time at which communication happens.
+
+
+- Carpet offers [[Parallel Calculations#Hybrid OpenMP MPI]]

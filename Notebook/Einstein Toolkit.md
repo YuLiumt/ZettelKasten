@@ -4,9 +4,11 @@
 
 - [Homepage](http://einsteintoolkit.org/index.html) 
 
-The Einstein Toolkit (ET) is an open-source computational infrastructure for that allows to solve the Einstein's Equations coupled to Matter on a three-dimensional grid.
-
 The Einstein Toolkit is a free, publicly available, community-driven General Relativity (GR) code based on the [[Cactus]] Framework. 
+
+## Download, Configure, and Build
+
+The recommended way to compile the Einstein Toolkit is to use the [[Simulation Factory]].
 
 ## Computational Units (CU)
 
@@ -31,7 +33,7 @@ The General Relativistic Hydrodynamics (GRHD) equations are solved by the module
 	- [[POWER]]
 - Code Generate
 	- [[Kranc]]
-	- NRPy+
+	- [[NRPy+]]
 - Repositories
 	- [[Zenodo]]
 	- [[DataVault]]
@@ -44,10 +46,16 @@ The General Relativistic Hydrodynamics (GRHD) equations are solved by the module
 
 ## Users
 
-- [[Masaru Shibata]]
-- [[Zachariah Etienne]]
-- [[Frank Löffler]]
-- [[Roland Haas]]
+Users of the Einstein Toolkit are encouraged to [register on this page](http://einsteintoolkit.org/join.html).
+
 - [[Bruno Giacomazzo]]
+- [[Erik Schnetter]]
+- [[Elias Roland Most]]
+- [[Frank Löffler]]
+- [[Masaru Shibata]]
+- [[Roland Haas]]
+- [[Riccardo Ciolfi]]
 - [[Riccardo Ciolfi]]
 - [[Yu Liu]]
+- [[Zachariah Etienne]]
+- and so on

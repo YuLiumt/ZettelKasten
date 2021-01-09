@@ -18,7 +18,7 @@
 - 2019
 	- [[Huerta2019]] Physics of eccentric binary black hole mergers: A numerical relativity perspective.
 - 2012
-	- [[Loffler2012]] The Einstein Toolkit: A Community Computational Infrastructure for Relativistic Astrophysics.
+	- [[Löffler2012]] The Einstein Toolkit: A Community Computational Infrastructure for Relativistic Astrophysics.
 - and so on
 
 ## Projects

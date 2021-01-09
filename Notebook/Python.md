@@ -12,6 +12,8 @@
 	- [emcee](https://emcee.readthedocs.io/en/v2.2.1/) - MCMC
 	- [PyMC3](https://docs.pymc.io) - MCMC
 	- [PyEphem](https://rhodesmill.org/pyephem/index.html) - Compute planet, comet, asteroid, and Earth satellite positions.
+- Telescopes
+	- [DarpanX](https://github.com/biswajitmb/DarpanX) - Modeling X-ray Reflectivity of Multilayer Mirrors
 - Gravitational Wave
 	- [GWpy](https://gwpy.github.io/docs/latest/index.html) - Providing tools for studying data from ground-based gravitational-wave detectors.
 	- [PyCBC](https://pycbc.org) - Detect coalescing compact binaries and measure the astrophysical parameters of detected sources.

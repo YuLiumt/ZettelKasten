@@ -4,11 +4,13 @@ The thorns are the basic modules of [[Cactus]]. They are largely independent of 
 
 ## Modules
 
+- Flesh Thorn
+- Driver
+	- [[Carpet Thorn]]
 - Grid
 	- [[CoordBase Thorn]]
 	- [[Coordinates Thorn]]
 	- [[CartGrid3D Thorn]]
-	- [[Carpet Thorn]]
 	- [[MoL Thorn]]
 - Initial Data
 	- TOVSolver Thorn

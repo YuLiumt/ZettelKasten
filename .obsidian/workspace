@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "606abcac49fb67a3",
+        "id": "c8e891cdfed727c0",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/Loffler2012.md",
+            "file": "Notebook/Simulation Factory.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#in-progress",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/Loffler2012.md",
+                "file": "Notebook/Simulation Factory.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/Loffler2012.md"
+                "file": "Notebook/Simulation Factory.md"
               }
             }
           },
@@ -103,28 +103,28 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 157.8777313232422
   },
   "lastOpenFiles": [
-    "Loffler2012.md",
-    "Research Group/Roland Haas.md",
+    "Notebook/Simulation Factory.md",
     "Research Group/Erik Schnetter.md",
-    "Research Group/Frank Löffler.md",
-    "Article/Zilhao2013.md",
-    "Untitled.md",
-    "Article/Zha2020.md",
-    "Notebook/Carpet Thorn.md",
-    "CoordBase Thorn.md",
-    "Notebook/Thorns.md"
+    "Notebook/Einstein Toolkit.md",
+    "Notebook/Paratera.md",
+    "Notebook/Thorns.md",
+    "Notebook/Primordial Black Hole.md",
+    "Dark Matter.md",
+    "Notebook/Black Hole.md",
+    "Notebook/Python.md",
+    "Solar Mass Black Hole.md"
   ]
 }

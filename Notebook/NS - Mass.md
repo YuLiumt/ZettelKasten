@@ -19,3 +19,7 @@ Rotation can further increase the maximum allowed mass.
 
 - The maximum mass of a cold, nonrotating, spherical neutron star is uniquely determined by the Tolman-Oppenheimer-Volkoff equations and depends only on the cold [[Equation of State]].
 - For most recent equations of state, this maximum mass is in the range of $1.8-2.3 M_{\odot}$, significantly smaller than the mass expected for the remnant of a binary neutron star merger. [[BNS - Merger Fate]]
+
+## References
+
+- [[Nathanail2021]] GW170817 and GW190814: tension on the maximum mass

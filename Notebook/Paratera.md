@@ -115,3 +115,30 @@ source activate nlp
 export http_proxy=http://172.16.3.223:8888
 export https_proxy=http://172.16.3.223:8888
 ```
+
+
+## Debug
+
+- locale
+```bash
+export LC_ALL="en_US.UTF-8"
+export LC_CTYPE="en_US.UTF-8"
+```
+
+```bash
+export LC_ALL=C
+```
+
+- libfabric.so.1
+```bash
+source <mpi/bin>/mpivars.sh
+```
+
+- `-lz`
+```bash
+module avail zlib
+```
+
+
+module load gcc/10.2.0 openmpi/3.1.6-gcc zlib/1.2.7
+./simfactory/bin/sim build GRHydro --thornlist ~/einsteintoolkit.th --reconfig

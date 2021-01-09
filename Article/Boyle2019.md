@@ -6,7 +6,7 @@
 		- The catalog contains 2018 distinct configurations, including 1426 spin-precessing configurations, with mass ratios between 1 and 10, and spin magnitudes up to 0.998.
 		- The full SXS catalog is publicly accessible at https://www.black-holes.org/waveforms.
 	- Numerical accuracy can be assessed from the difference between different numerical resolutions. Precession does not change numerical accuracy of our runs, but different mass ratios and spin magnitudes do.
-- **Link**: [[Binary Black Hole]], [[SXS Catalog]]
+- **Link**: [[Binary Black Hole]], [[SXS Catalog]], [[SpEC]]
 - [ADS](https://ui.adsabs.harvard.edu/abs/2019CQGra..36s5006B) SXS Collaboration. The SXS collaboration catalog of binary black hole simulations. Classical and Quantum Gravity, 2019, 36(19): 195006.
 
 ___

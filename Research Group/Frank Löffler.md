@@ -19,7 +19,7 @@
 - 2013
 	- [[Zilhao2013]] An Introduction to the Einstein Toolkit.
 - 2012
-	- [[Loffler2012]] The Einstein Toolkit: A Community Computational Infrastructure for Relativistic Astrophysics.
+	- [[Löffler2012]] The Einstein Toolkit: A Community Computational Infrastructure for Relativistic Astrophysics.
 - and so on.
 
 ## Projects
