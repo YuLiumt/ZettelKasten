@@ -4,7 +4,7 @@ Kilonovae events are transient emissions in the optical or near-infrared band. T
 
 ## Relationship Graph
 
-- Kilonova observations are a compelling proof for the link between [[SGRBs]] and [[Binary Neutron Star]] mergers.
+- Kilonova observations are a compelling proof for the link between [[Short Gamma-ray bursts]] and [[Binary Neutron Star]] mergers.
 
 ## Light Curves
 

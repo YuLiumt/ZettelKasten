@@ -6,23 +6,21 @@
 
 The Einstein Toolkit is a free, publicly available, community-driven General Relativity (GR) code based on the [[Cactus]] Framework. 
 
+The Einstein Toolkit uses a distributed development model where its software modules are either developed, distributed and supported by the core maintainers team, or by individual groups. Where modules are provided by external groups, the Einstein Toolkit maintainers provide quality control for modules for inclusion in the toolkit and coordinate support and releases. While the core of the toolkit is a set of Cactus thorns.
+
 ## Download, Configure, and Build
 
-The recommended way to compile the Einstein Toolkit is to use the [[Simulation Factory]].
+- Requirements
+	- **Client tools for Source Code Repositories:** SVN and git
+	- **Compilers:** C, C++ and Fortran 90
+	- **MPI implementation:** This is needed for the Carpet driver.
+	- **Standard development tools:** Python, Perl, etc.
+- [[GetComponents]] is used to fetch the components of the Einstein Toolkit.
+- The recommended way to compile the Einstein Toolkit is to use the [[Simulation Factory]].
 
 ## Computational Units (CU)
 
 All computations have been done in normalized computational units (hereafter denoted as CU) in which $c=G=M_{\odot}=1$. 
-
-
-
-
-
-
-The spacetime metric evolution is performed by the McLachlan module, implementing a 3 + 1 dimensional split of the Einstein Equations using the BSSN-NOK formalism.
-
-
-The General Relativistic Hydrodynamics (GRHD) equations are solved by the module **GRHydro**. 
 
 ## Tools
 
@@ -37,6 +35,10 @@ The General Relativistic Hydrodynamics (GRHD) equations are solved by the module
 - Repositories
 	- [[Zenodo]]
 	- [[DataVault]]
+
+## History
+
+- The first official release of the Einstein Toolkit, code named ‘Bohr’, was released on June 17, 2010.
 
 ## Challenge for the future
 

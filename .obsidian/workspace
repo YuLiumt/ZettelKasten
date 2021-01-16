@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notebook/Simulation Factory.md",
-            "mode": "preview"
+            "file": "Article/Fujibayashi2020.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#in-progress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 171.00868225097656,
+    "width": 176.5107650756836,
     "collapsed": true
   },
   "right": {
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/Simulation Factory.md",
+                "file": "Article/Fujibayashi2020.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/Simulation Factory.md"
+                "file": "Article/Fujibayashi2020.md"
               }
             }
           },
@@ -108,23 +108,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 157.8777313232422
+    "width": 264.4558410644531,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Notebook/Simulation Factory.md",
-    "Research Group/Erik Schnetter.md",
-    "Notebook/Einstein Toolkit.md",
-    "Notebook/Paratera.md",
-    "Notebook/Thorns.md",
-    "Notebook/Primordial Black Hole.md",
-    "Dark Matter.md",
-    "Notebook/Black Hole.md",
-    "Notebook/Python.md",
-    "Solar Mass Black Hole.md"
+    "Article/Fujibayashi2020.md",
+    "Notebook/Short Gamma-ray bursts.md",
+    "Notebook/Kilonova.md",
+    "Notebook/SGRBs.md",
+    "Notebook/Binary Neutron Star.md",
+    "Notebook/Gravitational Wave.md",
+    "Notebook/GW190521.md",
+    "Article/Shibata2021.md",
+    "Black hole-disk systems.md",
+    "Research Group/Masaru Shibata.md"
   ]
 }

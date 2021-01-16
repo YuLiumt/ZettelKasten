@@ -4,19 +4,24 @@ The thorns are the basic modules of [[Cactus]]. They are largely independent of 
 
 ## Modules
 
-- Flesh Thorn
-- Driver
+- [[Flesh Thorn]]
+- [[Driver]]
+	- [[CarpetLib Thorn]]
 	- [[Carpet Thorn]]
+	- [[CarpetIOHDF5 Thorn]]
+- CactusBase
 - Grid
 	- [[CoordBase Thorn]]
 	- [[Coordinates Thorn]]
 	- [[CartGrid3D Thorn]]
 	- [[MoL Thorn]]
-- Initial Data
+- EinsteinBase - The thorns providing the basic variable names for spacetime variables, hydro variables, equation of state variables as well as providing interfaces for spacetime and hydro coupling.
+	- [[ADMBase Thorn]]
+- EinsteinInitial - Thorns for setting up initial data
 	- TOVSolver Thorn
 	- [[TwoPunctures Thorn]]
 	- Meudon
-- GRMHD
+- EinsteinEvolve - Thorns for evolving spacetime and hydrodynamics variables
 	- [[McLachlan Thorn]]
 		- BSSN
 		- CCZ4
@@ -36,14 +41,22 @@ The thorns are the basic modules of [[Cactus]]. They are largely independent of 
 	- [[Spritz Thorn]]
 - Equation of State
 	- [[EOS_Omni Thorn]]
-- Analysis
+- EinsteinAnalysis - Thorns for performing analysis of spacetime and hydro data
 	- GW signal
 		- [[WeylScal4 Thorn]]
 		- [[Multipole Thorn]]
+		- [[Extract Thorn]]
 	- Black Hole
 		- [[AHFinderDirect Thorn]]
 		- PunctureTracker Thorn
 	- Matter
 		- Outflow Thorn
+- IO
+	- [[IOUtil Thorn]]
+- CactusNumerical - Numerical infrastructure thorns implementing things like time integration, dissipation, noise, symmetry boundary conditions, spherical surfaces and others.
 - CactusUtils
+	- [[NaNChecker Thorn]]
 	- [[SystemStatistics Thorn]]
+	- [[TerminationTrigger Thorn]]
+	- [[TimerReport Thorn]]
+- ExternalLibraries

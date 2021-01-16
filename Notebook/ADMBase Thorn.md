@@ -1,0 +1,5 @@
+## ADMBase Thorn
+
+- It defines groups of grid functions for the basic variables: metric (gxx, gxy, gxz, gyy, gyz, gzz), extrinsic curvature (kxx, kxy, kxz, kyy, kyz, kzz), lapse (alp), shift (betax, betay, betaz), time derivative of the lapse (dtalp) and time derivative of the shift (dtbetax, dtbetay, dtbetaz) along with their symmetry information.
+- It defines some basic parameters to choose the initial data, evolution method and number of active timelevels that other thorns can use or extend where appropriate. This ensures that only one initial data or evolution method can be chosen at a time.
+- It defines a schedule group where other thorns can schedule their routines that modify the ADMBase variables. When used correctly this ensures that the ADMBase variables gets modified at the right time in the Cactus schedule so they are available when needed by other thorns.

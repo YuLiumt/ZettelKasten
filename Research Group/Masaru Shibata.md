@@ -12,6 +12,8 @@
 
 ## Publications
 
+- 2021
+	- [[Shibata2021]] Alternative possibility of GW190521: Gravitational waves from high-mass black hole-disk systems.
 - 2020
 	- [[Kawaguchi2020]] A low-mass binary neutron star: long-term ejecta evolution and kilonovae with weak blue emission.
 	- [[Fujibayashi2020]] Postmerger Mass Ejection of Low-mass Binary Neutron Stars

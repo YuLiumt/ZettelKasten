@@ -1,4 +1,4 @@
-## Driver Thorn
+## Driver
 
 In [[Cactus]], infrastructure capabilities such as memory management, parallelization, time evolution, mesh refinement, and I/O are delegated to a set of special driver components.
 

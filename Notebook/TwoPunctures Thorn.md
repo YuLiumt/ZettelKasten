@@ -33,6 +33,12 @@ $$
 \psi=1+\sum_{n=1}^{2} \frac{m_{n}}{2\left|x_{n}\right|}+u
 $$
 
+Note that the mass parameters $m_{n}$ are different from the actual physical masses of the black holes.
+
+TwoPunctures has options to give the target black hole masses and it will iterate internally to find the corresponding "bare masses".
+
+Note also that the initial data will have spurious gravitational radiation.
+
 ## Parameter
 
 - ADM mass of Black holes

@@ -1,1 +1,0 @@
-## Short Gamma-ray burst

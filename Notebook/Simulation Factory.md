@@ -3,7 +3,7 @@
 - [Homepage](http://simfactory.org)
 -   [Documentation](https://svn.cct.lsu.edu/repos/numrel/simfactory2/www/info/documentation/userguide/index.html#)
 
-The Simulation Factory provides capabilities for compiling and deploying a [[Cactus]] application on machines and ging simulations.
+The Simulation Factory provides capabilities for compiling and deploying a [[Cactus]] application on machines.
 
 Note that it is included with the [[Einstein Toolkit]], so if you are using the toolkit, you probably already have it in the directory `Cactus/simfactory`.
 
@@ -96,6 +96,8 @@ cd @SOURCEDIR@
 @SIMFACTORY@ run @SIMULATION_NAME@ --basedir=@BASEDIR@ --machine=@MACHINE@ --restart-id=@RESTART_ID@ @FROM_RESTART_COMMAND@
 ```
 
+> Note: NUM_PROCS = PROCS / NUM_THREADS
+
 Submit scripts make use of several variables defined by SimFactory, such as the number of nodes required for a job, and the walltime to allocate. These definitions are refered to in the submit script using the `@DEF@` syntax, where DEF is the name of the definition. SimFactory converts the templated submit script into a real submit script by expanding these quantities.
 
 ### Run Script
@@ -167,37 +169,38 @@ When a simulation is created, it copies the submit script and the run script fro
 The `submit` command submitted a new segment for the simulation to the queueing system.
 
 ```bash
-./simfactory/bin/sim submit <simulationname>
+./simfactory/bin/sim submit <simulationname> --procs=<int>
 ```
+
+SimFactory starts a number of MPI processes, choosing how many MPI processes should be placed on every node. Each MPI process starts a certain number of OpenMP threads. **Note that nodes and cores are requested from the queuing system, while processes and threads are started by SimFactory.**
+
+The user chooses the total number of threads (`--procs=<int>`). The user can also choose the number of threads per process (`--num-threads=<int>`).
 
 Additional Options:
 
-- Walltime
-	- Maximum run time for your simulation.
-	- option: `--walltime=<HH:MM:SS>`
-	- default: MDB Key maxwalltime
-- Processors
-	- The total number of processors to use.
-	- option: `--procs=<int>`
-	- default: 1
 - Queue
 	- Queue to use for job submission
 	- option: `--queue=<identifier>`
-	- -   default: taken from the MDB
+- The number of nodes is always chosen automatically. 
+- Processors
+	- The total number of threads to use.
+	- option: `--procs=<int>`
+	- default: 1
 - Number of OpenMP Threads
-	- The number of OpenMP threads per MPI process. (You specify the total number of processors (cores), and the number of OpenMP threads; the number of MPI processes is then calculated automatically.)
+	- The number of OpenMP threads per MPI process.
 	- option: `--num-threads=<int>`
-	- default: 1 (as if OpenMP was not used)
+- Walltime
+	- Maximum run time for your simulation.
+	- option: `--walltime=<HH:MM:SS>`
 - Processors per node
-	- The number of processors per node requested from the queueing system
+	- The number of cores per node.
 	- option: `--ppn=<int>`
-- Used processors per node
-	- The number of processors per node that should actually be used, allowing under-using nodes even if the queueing system does not allow it. (The remaining processors will idle and will remain unused.)
+- The number of threads per node that should actually be used
+	- Allowing under-using nodes even if the queueing system does not allow it. (The remaining processors will idle and will remain unused.)
 	- option: `--ppn-used=<int> `
+- Values that are not specified are taken from a previous restart (if one exists), or from the system's MDB entry.
 
-Each time a simulation is submitted, a restart directory is created underneath the simulation directory. This restart folder has a name of the format "output-####", starting with "output-0000". Contained inside the restart folder are several internal files, the output written to stdout and stderr from the simulation, and the simulation output itself.
-
-The SIMFACTORY folder contains the executable, the necessary script files for submission and execution, and a `properties.ini` file that is used by the Simulation Factory to store information about the simulation.
+Each time a simulation is submitted, a restart directory is created underneath the simulation directory. This restart folder has a name of the format "output-####", starting with "output-0000". Contained inside the restart folder are several internal files, the output written to stdout and stderr from the simulation, and the simulation output itself. The SIMFACTORY folder contains the executable, the necessary script files for submission and execution, and a `properties.ini` file that is used by the Simulation Factory to store information about the simulation.
 
 ### Running a Simulation
 
@@ -227,15 +230,19 @@ The Simulation Factory can execute a simulation directly, bypassing the queuing 
 	./simfactory/bin/sim purge <simulationname> [--restart-id=<restartid>]
 	```
 
-### Checkpoints
+### Checkpoints/Recovery
 
-Currently simfactory stores the checkpoints for each restart in their own directory.
+Checkpointing is defined as saving the current state of a run (parameter settings, contents of grid variables, and other relevant information) to a file. At a later time, this run can then be restarted from that state by recovering all the data from the checkpoint file.
 
-One solution to this would be for SimFactory to store the checkpoints in a directory above the output-NNNN directories and make the current checkpoints directories under output-NNNN symbolic links to the common directory. This way, all restarts would see the same directory for checkpoint files, and Cactus could clean up the old checkpoints.
+```bash
+./simfactory/bin/sim submit <simulationname> --recover [--from-restart-id=<id>]
+```
+- `--from-restart-id` allows restarting from a particular restart id.
 
-SimFactory's philosophy is that each restart is independent of the other restarts.
+The maximum possible run times in queuing systems are usually measured in hours, and not more than two days at best. To deal with this, a simulation has to checkpoint itself before its queue time runs out and then restart when it receives another time slot in the batch system. In addition, if one uses a large number of nodes, there is an increased chance of system failures that will also require checkpointing and restarting.
 
-One problem in long-running simulations is that (a) one may accidentally delete too many checkpoints, so that the simulation becomes unusable. Another problem is that, if an error in the simulation is detected and if all old checkpoints have been deleted, it is impossible to "go back in time".
+Currently simfactory stores the checkpoints for each restart in their own directory. SimFactory's philosophy is that each restart is independent of the other restarts.
+> One solution to this would be for SimFactory to store the checkpoints in a directory above the output-NNNN directories and make the current checkpoints directories under output-NNNN symbolic links to the common directory. This way, all restarts would see the same directory for checkpoint files, and Cactus could clean up the old checkpoints. One problem is that, if an error in the simulation is detected and if all old checkpoints have been deleted, it is impossible to "go back in time".
 
 ### Running a simple example
 

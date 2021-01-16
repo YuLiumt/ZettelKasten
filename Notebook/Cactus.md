@@ -14,11 +14,8 @@ The Cactus API supports C/C++ and F77/F90 programming languages for the thorns. 
 
 ## History
 
-- 1997: 1st version of Cactus just for relativity (Funding from MPG/NCSA)
-- 1999: Cactus 4.0: "Cactus Einstein" thorns
-- 1999-2002: EU Network "Sources of Gravitational Waves"
-	- Led to Whisky Code for GR Hydro in Cactus
-- 2007: LSU/RIT/PennState/GeorgiaTech: NSF XiRel
+- The first version of Cactus was written at the [[AEI]] around 1995.
+- By 1999 it was completely redesigned and rewritten.
 
 ## Cactus Configuration Language
 
@@ -31,3 +28,31 @@ Cactus depends on three configuration files and two optional files provided by e
 - `schedule.ccl` - Defines when and how scheduled functions provided by thorns should be invoked by the Cactus scheduler.
 - `configuration.ccl` - (optional) Defines build–time dependencies in terms of provided and required capabilities, e.g. interfaces to Cactus–external libraries.
 - `test.ccl` - (optional) Defines how to test a thorn’s correctness via regression tests.
+
+
+## Developer
+
+- [Gabrielle Allen](https://www.cactuscode.org/about/team/gallen)
+- [[Frank Löffler]]
+- [Steven R. Brandt](https://www.cactuscode.org/about/team/sbrandt)
+- [David Rideout](https://www.cactuscode.org/about/team/drideout)
+- [[Erik Schnetter]]
+- [[Roland Haas]]
+- [Ian Hinder](https://www.cactuscode.org/about/team/hinder)
+- [Eloisa Bentivegna](https://www.cactuscode.org/about/team/ebentivegna)
+
+## Citation
+
+The BibTeX entry:
+
+```bibtex
+@InProceedings{Goodale2002a, 
+	author = {Tom Goodale and Gabrielle Allen and Gerd Lanfermann and Joan Mass{\\'o} and Thomas Radke and Edward Seidel and John Shalf}, 
+	title = {The {Cactus} Framework and Toolkit: Design and Applications}, 
+	booktitle = {Vector and Parallel Processing -- VECPAR'2002, 5th International Conference, Lecture Notes in Computer Science}, 
+	year = 2003, 
+	address = {Berlin}, 
+	publisher = {Springer}, 
+	url = {http://edoc.mpg.de/3341}, 
+}
+```
