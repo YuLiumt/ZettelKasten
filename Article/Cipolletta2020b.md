@@ -121,3 +121,11 @@ where
 $$
 \frac{\partial \varepsilon}{\partial t}=-\frac{\Sigma_{i} Q_{\nu_{i}}^{\mathrm{eff}}}{\rho} \tag{13}
 $$
+
+## Numerical Methods
+
+### Initial Data
+
+In order to compute the initial data, one needs to reduce the 3D EOS table to a 1D EOS, in which the pressure $P$ is only a function of the rest-mass density $\rho$. We coded a python script for this purpose that produces a 1D tabulated EOS starting from a 3D tabulated EOS in `.h5` format. The 1D EOS can be easily used with LORENE.
+
+Since the initial data were produced assuming $\beta$-equilibrium, we also developed an additional thorn, Spritz_SetBeta, that instead makes sure that, when computing the conservative variables from the primitive ones at iteration 0, the code uses the same 1D EOS used to compute the initial data. After the initial data are correctly imported and conserved variables computed, the evolution starts and the full 3D EOS table is used.

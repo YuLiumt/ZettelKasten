@@ -45,3 +45,11 @@ ___
 	- $4^{\mathrm{th}}$ order Runge-Kutta timestepper
 	- each refined region is surrounded by 20 points that are filled in via prolongation from the next coarser region.
 	- Vertex centered $5^{\mathrm{th}}$ order prolongation operators.
+
+## Convergence of the numerical waveforms
+
+To estimate the convergence of each waveform we simulated each set of physical parameters using at least 3 (4) simulations using increasing resolution for waveforms of mass ratio $q \leq 5$ ($q>5$). We then compute the gravitational wave phase $\phi^{(2,2)}$ from the complex $\ell=m=2$ mode of the spherical harmonic decomposition of the outgoing component of the Weyl scalar $\psi_{4}$ and studied its convergence properties.
+
+Figure 5 shows the rescaled phase differences $\phi^{(2,2)}\left(h_{n}\right)-\phi^{(2,2)}\left(h_{\mathrm{high}}\right)$ between the gravitational wave phase obtained from the simulation with resolution $h_{n}$ and the highest resolved simulation.
+
+![[Pasted image 20210116182721.png]]

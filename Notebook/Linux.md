@@ -22,22 +22,62 @@ The most well-known being BASH.
 
 - **find** - Locate files within a given directory
 	```bash
-	find . -name "*.c"
+	$ find . -name "*.c"
 	```
+- **grep** - Search for a string of characters in a specified file
+	```bash
+	$ grep <pattern> <file>
+	```
+	- Using Grep to Filter the Output of a Command
+		```bash
+		$ history | grep <pattern>
+		```
 - **which**
 - **whereis**
 - **top** - For Memory usage, the number you are interested in is RES
-- **scp**
+- **scp** - Transfer files and directories across the systems securely over the network.
 	```bash
-	scp -r -l 8192 yuliu@172.22.127.9:/home4/yuliu/ /Users/liuyu/
+	$ scp -r [-l <num>] <user@host>:<folder> <folder>
 	```
-- **rsync**
+	- `-r`: Copy files and directories recursively
+	- `-l`: Limit the bandwidth while copying, specified in `<num> Kbit/s` .
+- **rsync** - Transfer just the differences between two sets of files across the  network
+       connection
 	```bash
-	rsync -avu --progress --delete --exclude=\".*\" --exclude=\"__pycache__\" yuliu@172.22.127.9:/home4/yuliu/Desktop/Pylib/CactusTool/CactusTool /Users/liuyu/Desktop/CactusTool/
+	$ rsync -av [--progress] [--delete] [--exclude=<pattern>] <user@host>:<folder> <folder>
 	```
+	- `-v`: verbose
+	- `-a`: archive mode, archive mode allows copying files recursively and it also preserves symbolic links, file permissions, user & group ownerships and timestamp
+	- `--exclude`: Specify those files or directories which you want to exclude
+	- `--delete`: Delete files that are not there in source directory.
+	- `--progress`: Show progress during transfer
 - **tail** - Sometimes you want to monitor what new information is being written to a file (i.e. log file).
 	```bash
-	tail -n <num> -f <file>
+	$ tail [-n <num>] [-f] <file>
 	```
 	- `-f`:  This option shows the last ten lines of a file and will update when new lines are added.
 	- `-n`: Prints the last `<num>` lines instead of last 10 lines.
+- **du** - Summarize disk usage of the set of `<FILEs>`, recursively for directories.
+	```bash
+	$ du -h [-s] [-d <n>] <FILEs>
+	```
+	- `-h`: Print sizes in human readable format
+	- `-s`: Display only a total
+	- `-d`: print the total for a directory only if it is `<n>` or fewer levels below the command line argument.
+- **free** - Check information about the RAM usage by your system
+	```bash
+	$ free -h
+	```
+	- `-h`: Show human-readable output
+- **lfs** -  To display disk usage and limits for a user.
+	```bash
+	$ lfs quota -uh $USER ~
+	```
+
+## Memory Management
+
+Memory management is a form of resource management applied to computer memory. The essential requirement of memory management is to provide ways to dynamically allocate portions of memory to programs at their request, and free it for reuse when no longer needed.
+
+### Swapping
+
+Swapping is a mechanism in which a process can be swapped temporarily out of main memory (or move) to secondary storage (disk) and make that memory available to other processes. At some later time, the system swaps back the process from the secondary storage to main memory.

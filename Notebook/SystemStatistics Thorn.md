@@ -18,6 +18,16 @@ Collects information about the system on which a Cactus process is running can b
 	IOScalar::outScalar_vars = "SystemStatistics::process_memory_mb"
 	```
 
+## Memory Allocation Information (mallinfo)
+
+- `arena` The total amount of memory allocated by means.
+- `ordblks` The number of ordinary free blocks.
+- `hblks` The number of blocks currently allocated
+- `hblkhd` The number of bytes in blocks currently allocated
+- `uordblks` The total number of bytes used by in-use allocations.
+- `fordblks` The total number of bytes in free blocks.
+- `keepcost` The total amount of releasable free space at the top of the heap.
+
 ## Developer
 
 - Ian Hinder

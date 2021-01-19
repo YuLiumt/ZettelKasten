@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/Fujibayashi2020.md",
-            "mode": "source"
+            "file": "Notebook/Slurm.md",
+            "mode": "preview"
           }
         }
       }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 176.5107650756836,
+    "width": 189.0107650756836,
     "collapsed": true
   },
   "right": {
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/Fujibayashi2020.md",
+                "file": "Notebook/Slurm.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/Fujibayashi2020.md"
+                "file": "Notebook/Slurm.md"
               }
             }
           },
@@ -116,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Article/Fujibayashi2020.md",
-    "Notebook/Short Gamma-ray bursts.md",
-    "Notebook/Kilonova.md",
-    "Notebook/SGRBs.md",
-    "Notebook/Binary Neutron Star.md",
-    "Notebook/Gravitational Wave.md",
-    "Notebook/GW190521.md",
-    "Article/Shibata2021.md",
-    "Black hole-disk systems.md",
-    "Research Group/Masaru Shibata.md"
+    "Notebook/Slurm.md",
+    "Notebook/Paratera.md",
+    "Notebook/Linux.md",
+    "Notebook/Simulation Factory.md",
+    "Article/Huerta2019.md",
+    "Research Group/Roland Haas.md",
+    "Notebook/Method of Lines.md",
+    "Notebook/Finite difference methods.md",
+    "Notebook/NM - Riemann Problem.md",
+    "Notebook/NR - Initial Data.md"
   ]
 }

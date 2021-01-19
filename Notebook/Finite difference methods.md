@@ -11,3 +11,9 @@ To save computational resources, modern finite differencing codes often do somet
 
 ## The CFL condition
 
+
+## Grid points
+
+In practice, differential operators acting on a given function are then replaced by algebraic expressions of the values of the function at specific points. These points are called "grid points".
+
+The amount of grid points a computer can store is limited as well as the speed at which the equations can be solved using these points, so they have to be carefully distributed.
