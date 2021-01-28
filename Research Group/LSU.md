@@ -5,3 +5,4 @@
 ## Scientists
 
 * [[Frank Löffler]]
+* Peter Diener

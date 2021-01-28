@@ -11,6 +11,6 @@ ___
 
 ## Highlight
 
-- Recently, the SXS collaboration has published numerical-relativity solutions to the full Einstein equations for precessing BBH systems. Therefore, they offer a novel opportunity to systematically quantify the accuracy of the post-Newtonian precession equations. [[SXS Catalog]]
+- Recently, the SXS collaboration has published numerical-relativity solutions to the full Einstein equations for precessing BBH systems. Therefore, they offer a novel opportunity to systematically quantify the accuracy of the post-Newtonian precession equations.
 - Considering the orbital-phase evolution, we find that the disagreement between post-Newtonian orbital phase and numerical relativity simulation is comparable to the aligned-spin case. This implies that the orbital phase evolution will remain an important limitation for post-Newtonian waveforms even in the precessing case.
 - When comparing PN theory to NR results, it is important to ensure that the initial conditions used in both cases represent the same physical situation.

@@ -1,0 +1,3 @@
+## Bayesian inference
+
+[[Bayes' theorem]]

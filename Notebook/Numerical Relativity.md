@@ -38,10 +38,11 @@ The first fully general relativistic (GR) simulations of merging NS-NS binaries 
 
 ## Source
 
-* [[Binary Neutron Star]]
-* [[Binary Black Hole]]
-	* Because LIGO is only sensitive to the last few orbits of stellar-mass BHB mergers, and because of the large computational resources needed to produce these simulations, BHB simulations start at relatively small initial separations in astrophysical terms.
-	* On the other hand, by the time a BHB enters the LIGO sensitivity band we expect that the eccentricity will be very small because any eccentricity of astrophysical origin would have been most likely radiated away well before the late-inspiral.
+- [[Binary Neutron Star]]
+- [[Binary Black Hole]]
+	- Because LIGO is only sensitive to the last few orbits of stellar-mass BHB mergers, and because of the large computational resources needed to produce these simulations, BHB simulations start at relatively small initial separations in astrophysical terms.
+	- On the other hand, by the time a BHB enters the LIGO sensitivity band we expect that the eccentricity will be very small because any eccentricity of astrophysical origin would have been most likely radiated away well before the late-inspiral.
+- [[Core-Collapse Supernovae]]
 
 ## Relationship Graph
 
@@ -61,4 +62,4 @@ The first fully general relativistic (GR) simulations of merging NS-NS binaries 
 ## Tools
 
 - [[Einstein Toolkit]]
-- [[SpEC]]
+- [[Spectral Einstein Code]]

@@ -46,6 +46,21 @@ All computations have been done in normalized computational units (hereafter den
 - Data, visualization, profiling tools, debugging tools, tools to run codes
 - Growing complexity of application, programming models, architectures.
 
+## Maintainers
+
+- [Steven R. Brandt](https://www.cct.lsu.edu/~sbrandt/)
+- Peter Diener
+- [[Zachariah Etienne]]
+- [[Roland Haas]]
+- [[Ian Hinder]]
+- [[Erik Schnetter]]
+- [Helvi Witek](https://kclpure.kcl.ac.uk/portal/helvi.witek.html)
+- [Gabrielle Allen](http://www.astro.illinois.edu/people/gdallen)
+- Tanja Bode
+- [[Frank Löffler]]
+- [Bruno Mundim](https://www.scinethpc.ca/staff/)
+- Christian D. Ott
+
 ## Users
 
 Users of the Einstein Toolkit are encouraged to [register on this page](http://einsteintoolkit.org/join.html).

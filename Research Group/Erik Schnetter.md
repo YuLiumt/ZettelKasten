@@ -13,11 +13,14 @@
 
 ## Publications
 
-- 2010
-	- [[Thomas2010]] Simulation Factory: Taming Application Configuration and Workflow on High-End Resources.
+- 2013
+	- [[Reisswig2013]] Three-Dimensional General-Relativistic Hydrodynamic Simulations of Binary Neutron Star Coalescence and Stellar Collapse with Multipatch Grids
 - 2012
 	- [[Löffler2012]] The Einstein Toolkit: A Community Computational Infrastructure for Relativistic Astrophysics.
+- 2011
+	- [[Pollney2011]] High accuracy binary black hole simulations with an extended wave zone
 - 2010
+	- [[Thomas2010]] Simulation Factory: Taming Application Configuration and Workflow on High-End Resources.
 	- [[Seidel2010]] Simplifying Complex Software Assembly: The Component Retrieval Language and Implementation.
 - and so on.
 

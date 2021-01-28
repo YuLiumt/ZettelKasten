@@ -6,7 +6,7 @@
 		- The catalog contains 2018 distinct configurations, including 1426 spin-precessing configurations, with mass ratios between 1 and 10, and spin magnitudes up to 0.998.
 		- The full SXS catalog is publicly accessible at https://www.black-holes.org/waveforms.
 	- Numerical accuracy can be assessed from the difference between different numerical resolutions. Precession does not change numerical accuracy of our runs, but different mass ratios and spin magnitudes do.
-- **Link**: [[Binary Black Hole]], [[SXS Catalog]], [[SpEC]]
+- **Link**: [[Binary Black Hole]], [[SXS Catalog]], [[Spectral Einstein Code]]
 - [ADS](https://ui.adsabs.harvard.edu/abs/2019CQGra..36s5006B) SXS Collaboration. The SXS collaboration catalog of binary black hole simulations. Classical and Quantum Gravity, 2019, 36(19): 195006.
 
 ___
@@ -15,7 +15,7 @@ ___
 
 - A number of numerical-relativity groups have begun building larger, more comprehensive catalogs, spanning more of the parameter space and including more orbits before merger.
 	![[Pasted image 20201230194934.png]]
-- We use the Spectral Einstein Code (SpEC) to model merging black holes and the gravitational waves they emit. [[SpEC]]
+- We use the Spectral Einstein Code (SpEC) to model merging black holes and the gravitational waves they emit. [[Spectral Einstein Code]]
 - Waveform post-processing
 	- The code that we use to perform the entire extrapolation procedure is available in the open-source python module [GWFrames](https://github.com/moble/GWFrames).
 	- We implement the measurement of and corrections to the COM using the open-source python module [scri](https://github.com/moble/scri).

@@ -12,7 +12,7 @@ The thorns are the basic modules of [[Cactus]]. They are largely independent of 
 - CactusBase
 - Grid
 	- [[CoordBase Thorn]]
-	- [[Coordinates Thorn]]
+	- [[Llama Thorn]]
 	- [[CartGrid3D Thorn]]
 	- [[MoL Thorn]]
 - EinsteinBase - The thorns providing the basic variable names for spacetime variables, hydro variables, equation of state variables as well as providing interfaces for spacetime and hydro coupling.
@@ -49,6 +49,7 @@ The thorns are the basic modules of [[Cactus]]. They are largely independent of 
 	- Black Hole
 		- [[AHFinderDirect Thorn]]
 		- PunctureTracker Thorn
+		- [[QuasiLocalMeasures Thorn]]
 	- Matter
 		- Outflow Thorn
 - IO

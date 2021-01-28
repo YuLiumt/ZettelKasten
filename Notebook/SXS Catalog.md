@@ -4,6 +4,7 @@ Simulating eXtreme Spacetimes (SXS) Collaboration catalog of numerical simulatio
 
 - [Homepage](https://data.black-holes.org/waveforms/index.html)
 
+[[Spectral Einstein Code]]
 
 ## Catalog papers
 

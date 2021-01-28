@@ -34,7 +34,26 @@ The most well-known being BASH.
 		```
 - **which**
 - **whereis**
-- **top** - For Memory usage, the number you are interested in is RES
+- **top** - Display Linux processes
+	```bash
+	$ top [-U $USER]
+	```
+	- `-U`: Display specific User process details.
+	- load average: These numbers tell you how busy your system's CPU
+	- TASK and CPU States
+		- **us**: time running user processes
+		- **sy**: time running kernel processes
+		- **id**: time spent in the kernel idle handler
+		- **wa**: time waiting for I/O completion
+	- MEMORY Usage
+		- Changing the numeric units with the `E` interactive command.
+	- the process list
+		- **PID**: Process ID.
+		- **USER**: The owner of the process.
+		- **S**: Status of the process.
+		- **%CPU**: The share of CPU time used by the process since the last update.
+			- If a process is multi-threaded and top is not operating in Threads mode, amounts greater than $100\%$ may be reported. You toggle Threads mode with the `H` interactive command.
+		- **%MEM**: The share of physical memory used.
 - **scp** - Transfer files and directories across the systems securely over the network.
 	```bash
 	$ scp -r [-l <num>] <user@host>:<folder> <folder>

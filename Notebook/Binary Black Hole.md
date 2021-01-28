@@ -1,4 +1,4 @@
-# Binary Black Hole
+## Binary Black Hole (BBH)
 
 ## Merger stages
 

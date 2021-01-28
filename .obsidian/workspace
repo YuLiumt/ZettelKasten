@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notebook/Slurm.md",
+            "file": "Article/Reisswig2013.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#in-progress",
+                "query": "Christian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 189.0107650756836,
+    "width": 174.0107650756836,
     "collapsed": true
   },
   "right": {
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/Slurm.md",
+                "file": "Article/Reisswig2013.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/Slurm.md"
+                "file": "Article/Reisswig2013.md"
               }
             }
           },
@@ -116,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Notebook/Slurm.md",
-    "Notebook/Paratera.md",
-    "Notebook/Linux.md",
-    "Notebook/Simulation Factory.md",
-    "Article/Huerta2019.md",
+    "Article/Reisswig2013.md",
+    "Notebook/Llama Thorn.md",
+    "Article/Schmidt2015.md",
+    "Notebook/BBH - Orbital Precession.md",
+    "Article/Ossokine2015.md",
+    "Article/Pollney2011.md",
+    "Notebook/Python.md",
     "Research Group/Roland Haas.md",
-    "Notebook/Method of Lines.md",
-    "Notebook/Finite difference methods.md",
-    "Notebook/NM - Riemann Problem.md",
-    "Notebook/NR - Initial Data.md"
+    "Article/Huerta2019.md",
+    "Notebook/Flesh Thorn.md"
   ]
 }

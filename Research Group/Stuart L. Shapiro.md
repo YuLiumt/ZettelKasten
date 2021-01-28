@@ -10,3 +10,7 @@
 - University of Illinois at Urbana-Champaign [[Illinois]]
 
 ## Publications
+
+- 2021
+	- [[Richards2021]] Relativistic Bondi accretion for stiff equations of state
+- and so on.

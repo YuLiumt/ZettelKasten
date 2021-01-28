@@ -1,1 +1,0 @@
-## NANOGrav Collaboration

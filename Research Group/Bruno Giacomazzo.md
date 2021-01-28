@@ -1,6 +1,6 @@
 ## Bruno Giacomazzo
 
-![[Bruno_Giacomazzo_medres-300x225.jpg|250]]
+![[Bruno_Giacomazzo.jpg|250]]
 
 * [Homepage](https://www.brunogiacomazzo.org)
 * [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=X86jkiMAAAAJ&view_op=list_works&citft=1&email_for_op=yuliumutian%40gmail.com&gmla=AJsN-F7Keg_96MmuQHjDAZA9ciQE7jU60PUiK4xsToOKgGDjSk-31735HVtURfcRTsZZBDC-1iIgmiDySZj28a4pkEEIXizqT1rkGstyZ5aQz80Zfx-CN0Sld-A_n8J5dSwZVj0Hd-0Dx1AiOXl3ztNrEyI-QEmDLN7RrHz-xa5gGL-aUfim4KDaf3th4dvGKGAKkWg_IjxSscdrc8At0ctA7dKogMqBlthzOMKLJQ_zcvXmhI2CIy3csMNGHwO9z_0M8BVWUuHn)

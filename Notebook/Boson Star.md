@@ -1,0 +1,3 @@
+## Boson Star
+
+It is well known that the gravitational field of a boson star bends light around itself, creating a region resembling the shadow of a black hole's event horizon. Like a black hole, a boson star will accrete ordinary matter from its surroundings, but its opacity means this matter (which likely would heat up and emit radiation) would be visible at its center. There is no significant evidence so far that such stars exist. However, it may become possible to detect them through [[Very Long Baseline Interferometry|VLBI]] measurements.
