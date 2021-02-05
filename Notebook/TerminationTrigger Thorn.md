@@ -22,6 +22,10 @@ This thorn watches the elapsed walltime. If only n minutes are left before the s
 	TerminationTrigger::termination_file        = "terminate.txt"
 	TerminationTrigger::create_termination_file = yes
 	```
+	Example
+	```bash
+	echo "1" >> terminate.txt
+	```
 
 ## Developer
 

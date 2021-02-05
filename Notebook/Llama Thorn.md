@@ -16,7 +16,7 @@ In order to handle multiple regions of different symmetry within the same simula
 - Need Jacobian transformations to transform between local and global frame. 
 - Can keep original Cartesian code; only need to replace derivative operators!
 
-## Publications
+## Implementation
 
 Spherical grids have been widely used for many astrophysical problems
 

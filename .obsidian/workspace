@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/Reisswig2013.md",
-            "mode": "preview"
+            "file": "Research Group/James Healy.md",
+            "mode": "source"
           }
         }
       }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 174.0107650756836,
-    "collapsed": true
+    "width": 174.0107650756836
   },
   "right": {
     "id": "1ff87cd29d1eca20",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/Reisswig2013.md",
+                "file": "Research Group/James Healy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/Reisswig2013.md"
+                "file": "Research Group/James Healy.md"
               }
             }
           },
@@ -116,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Article/Reisswig2013.md",
-    "Notebook/Llama Thorn.md",
-    "Article/Schmidt2015.md",
-    "Notebook/BBH - Orbital Precession.md",
-    "Article/Ossokine2015.md",
-    "Article/Pollney2011.md",
-    "Notebook/Python.md",
-    "Research Group/Roland Haas.md",
-    "Article/Huerta2019.md",
-    "Notebook/Flesh Thorn.md"
+    "Research Group/James Healy.md",
+    "Research Group/Erik Schnetter.md",
+    "Article/Healy2017.md",
+    "Research Group/Frank Löffler.md",
+    "Untitled.md",
+    "Research Group/Carlos Lousto.md",
+    "Research Group/Rochester Institute of Technology.md",
+    "Research Group/Bruno Giacomazzo.md",
+    "Research Group/Christian Reisswig.md",
+    "Research Group/LSU.md"
   ]
 }
