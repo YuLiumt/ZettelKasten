@@ -15,7 +15,7 @@ ___
 	![[Pasted image 20210204154830.png]]
 	- The high convergence of these results allow us to use the medium of the resolutions, n100, as the reference grid to perform a set of smaller $q$ simulations, each time halving the mass ratio and adding a new refinement level around the smaller hole (12, 13, 14, 15 levels for $q =1/15$, $1/32$, $1/64$, $1/128$, respectively).
 		![[Pasted image 20210204155609.png]]
-	- An important test of accuracy of our simulations is to compare the final properties versus the predictions of the formulas obtained in Ref. [[Healy2017]].
+	- An important test of accuracy of our simulations is to compare the final properties versus the predictions of the formulas obtained in Ref. [[Healy2017a]].
 		![[Pasted image 20210204160022.png]]
 	- In light of these good results, we can now use the current data to generate a new fit of the nonspinning binary remnant and merger waveform properties.
 		- The fitting formula for $M_{\mathrm{rem}}$ is given by $$\begin{aligned} \frac{M_{\mathrm{rem}}}{m}=&(4 \eta)^{2}\left\{M_{0}+K_{2 d} \delta m^{2}+K_{4 f} \delta m^{4}\right\} \\ &+\left[1+\eta\left(\tilde{E}_{\mathrm{ISCO}}+11\right)\right] \delta m^{6} \end{aligned} \tag{1}$$ where $\delta m=\left(m_{1}-m_{2}\right) / m$ and $m=\left(m_{1}+m_{2}\right)$ and $4 \eta=$ $1-\delta m^{2}$.

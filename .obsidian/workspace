@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Research Group/James Healy.md",
-            "mode": "source"
+            "file": "Article/Tichy2008.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Christian",
+                "query": "section:(Error Analysis)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 174.0107650756836
+    "width": 174.0107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "1ff87cd29d1eca20",
@@ -77,12 +78,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Group/James Healy.md",
+                "file": "Article/Tichy2008.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -92,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Group/James Healy.md"
+                "file": "Article/Tichy2008.md"
               }
             }
           },
@@ -115,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Research Group/James Healy.md",
-    "Research Group/Erik Schnetter.md",
-    "Article/Healy2017.md",
-    "Research Group/Frank Löffler.md",
+    "Article/Tichy2008.md",
+    "Article/Tichy2007.md",
+    "Research Group/Wolfgang Tichy.md",
     "Untitled.md",
-    "Research Group/Carlos Lousto.md",
-    "Research Group/Rochester Institute of Technology.md",
-    "Research Group/Bruno Giacomazzo.md",
-    "Research Group/Christian Reisswig.md",
-    "Research Group/LSU.md"
+    "Article/Campanelli2009.md",
+    "Article/Chiaramello2020.md",
+    "Report/Report 2021-01-13.md",
+    "Report/Report 2020-12-18.md",
+    "Report/Report 2020-12-15.md",
+    "Report/Report 2020-12-13.md"
   ]
 }

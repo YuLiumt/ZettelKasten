@@ -9,7 +9,7 @@
 	- We find no signal, however, and report our upper limits.
 		- Assuming a rigidly rotating triaxial star, our constraints limit gravitational waves from the $l = m = 2$ mode to account for less than 14% of the spin-down energy budget.
 		- The fiducial equatorial ellipticity is limited to less than about $3 \times 10^{-5}$.
-- **Link**: [[Gravitational Wave]], [[Pulsar]], [[LIGO]]
+- **Link**: [[Gravitational Wave]], [[Pulsar]], [[Laser Interferometer Gravitational Wave Observatory]]
 - [ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201212926T/abstract) LIGO Collaboration. Diving below the spin-down limit: Constraints on gravitational waves from the energetic young pulsar PSR J0537-6910. arXiv:2012.12926.
 
 ___

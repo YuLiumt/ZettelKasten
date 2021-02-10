@@ -1,4 +1,4 @@
-## LIGO
+## Laser Interferometer Gravitational Wave Observatory (LIGO)
 
 ## Main Target
 

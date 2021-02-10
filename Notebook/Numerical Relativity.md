@@ -53,9 +53,9 @@ The first fully general relativistic (GR) simulations of merging NS-NS binaries 
 ## Catalog
 
 - [[SXS Catalog]]
+- [[GT Catalog]]
+- [[RIT Catalog]]
 - [[CoRe]]
-- Georgia Tech (GT)
-- [[RIT Waveform Catalog]]
 - Illinois Data Bank (IDB)
 - Federated Research Data Repository (FRDR)
 
