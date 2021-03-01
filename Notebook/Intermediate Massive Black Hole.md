@@ -1,8 +1,8 @@
 ## Intermediate Massive Black Hole (IMBH)
 
-Intermediate Massive Black Hole (IMBH)
-
 IMBHs are an elusive class of BHs with a mass range from $10^{2} M_{\odot}$ to $10^{5} M_{\odot}$.
+
+perhaps formed in dense globular clusters
 
 ## Event Rate
 

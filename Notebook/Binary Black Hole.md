@@ -7,6 +7,7 @@
 	- [[BBH - Orbital Precession]]
 - [[BBH - Merger Phase]]
 - [[BBH - Ringdown Phase]]
+- [[BBH - Final black hole]]
 
 ![[GravitationalWavePhase.png]]
 

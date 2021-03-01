@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/Tichy2008.md",
+            "file": "Article/Boyle2016.md",
             "mode": "preview"
           }
         }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 174.0107650756836,
-    "collapsed": true
+    "width": 174.0107650756836
   },
   "right": {
     "id": "1ff87cd29d1eca20",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/Tichy2008.md",
+                "file": "Article/Boyle2016.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/Tichy2008.md"
+                "file": "Article/Boyle2016.md"
               }
             }
           },
@@ -116,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Article/Tichy2008.md",
-    "Article/Tichy2007.md",
-    "Research Group/Wolfgang Tichy.md",
-    "Untitled.md",
-    "Article/Campanelli2009.md",
-    "Article/Chiaramello2020.md",
-    "Report/Report 2021-01-13.md",
-    "Report/Report 2020-12-18.md",
-    "Report/Report 2020-12-15.md",
-    "Report/Report 2020-12-13.md"
+    "Article/Boyle2016.md",
+    "Article/Boyle2019.md",
+    "Boyle2016.md",
+    "Notebook/Gaussian process regression.md",
+    "Gaussian process regression.md",
+    "Notebook/Compact Star.md",
+    "Notebook/Simulation Factory.md",
+    "Notebook/SXS Catalog.md",
+    "Article/eBook.md",
+    "eBook.md"
   ]
 }

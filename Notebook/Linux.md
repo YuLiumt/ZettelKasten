@@ -92,6 +92,10 @@ The most well-known being BASH.
 	```bash
 	$ lfs quota -uh $USER ~
 	```
+- **unzip** - Unzip a ZIP File
+	```bash
+	$ unzip <FILEs>
+	```
 
 ## Memory Management
 
