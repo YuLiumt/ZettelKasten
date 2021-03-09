@@ -54,6 +54,7 @@ The most well-known being BASH.
 		- **%CPU**: The share of CPU time used by the process since the last update.
 			- If a process is multi-threaded and top is not operating in Threads mode, amounts greater than $100\%$ may be reported. You toggle Threads mode with the `H` interactive command.
 		- **%MEM**: The share of physical memory used.
+- **htop** - Similar to top command but shows the percentage of CPU being used.
 - **scp** - Transfer files and directories across the systems securely over the network.
 	```bash
 	$ scp -r [-l <num>] <user@host>:<folder> <folder>
@@ -63,13 +64,16 @@ The most well-known being BASH.
 - **rsync** - Transfer just the differences between two sets of files across the  network
        connection
 	```bash
-	$ rsync -av [--progress] [--delete] [--exclude=<pattern>] <user@host>:<folder> <folder>
+	$ rsync -avz [--progress] [--delete] [--exclude=<pattern>] <user@host>:<folder> <folder>
 	```
-	- `-v`: verbose
+	- `-r`: recurse into directories
 	- `-a`: archive mode, archive mode allows copying files recursively and it also preserves symbolic links, file permissions, user & group ownerships and timestamp
-	- `--exclude`: Specify those files or directories which you want to exclude
+	- `-v`: verbose
+	- `--exclude`: Specify those files or directories which you want to exclude. `--exclude={'checkpoints/','cactus_sim'}`
 	- `--delete`: Delete files that are not there in source directory.
-	- `--progress`: Show progress during transfer
+	- `--progress`: Show progress during transfer, including speed of the entire transfer.
+	- `-e`: Specify SSH  `-e 'ssh -p 20006'` 
+	- `-z`: Compress file data during the transfer
 - **tail** - Sometimes you want to monitor what new information is being written to a file (i.e. log file).
 	```bash
 	$ tail [-n <num>] [-f] <file>
@@ -96,6 +100,10 @@ The most well-known being BASH.
 	```bash
 	$ unzip <FILEs>
 	```
+- Check OS version in Linux
+	```
+	$ cat /etc/os-release
+	```
 
 ## Memory Management
 
@@ -104,3 +112,17 @@ Memory management is a form of resource management applied to computer memory. T
 ### Swapping
 
 Swapping is a mechanism in which a process can be swapped temporarily out of main memory (or move) to secondary storage (disk) and make that memory available to other processes. At some later time, the system swaps back the process from the secondary storage to main memory.
+
+
+## Error
+
+- `LC_CTYPE: cannot change locale (UTF-8)`
+	- 在远程服务器上输入 `locale`
+	- 在自己的Mac上输入`locale`
+	- Mac上`UTF-8`的字符集Linux上没有对应的
+	- 因为我使用zsh替代的了原始的bash，所以在`~/.zshrc`没有设置`LC_CTYPE`,而没有设置时`LC_CTYPE`的默认值变成了`UTF-8`
+	- 在`~/.zshrc`末加入
+		```bash
+		export LC_ALL=en_US.UTF-8  
+		export LANG=en_US.UTF-8
+		```

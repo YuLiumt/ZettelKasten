@@ -16,3 +16,10 @@ The components will usually overlap by a few grid points, so as to allow the pro
 
 
 - Carpet offers [[Parallel Calculations#Hybrid OpenMP MPI]]
+
+
+## Bounding box 
+
+A bounding box (bbox) describes the location and shape of a rectangular region, a bounding box set (bboxset) describes a set of non-overlapping bounding boxes.
+
+Since a bboxset is used to describe the grid points that make up a particular refinement level, its points lie on a uniform grid. Each grid point can be described by its location, which can be expressed as $x_{0}^{i}+n^{i} \cdot \Delta x^{i}$ where $x_{0}^{i}$ and $\Delta x^{i}$ describe origin and spacing of the grid, and $n^{i}$ is a vector with integer elements. (The abstract index $i$ denotes that these are vectors, where $i \in[1 \ldots D]$ in $D$ dimensions.)

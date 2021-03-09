@@ -14,6 +14,7 @@
 ## Publications
 
 - 2013
+	- [[Schnetter2013]] Performance and Optimization Abstractions for Large Scale Heterogeneous Systems in the Cactus/Chemora Framework
 	- [[Reisswig2013]] Three-Dimensional General-Relativistic Hydrodynamic Simulations of Binary Neutron Star Coalescence and Stellar Collapse with Multipatch Grids
 - 2012
 	- [[Löffler2012]] The Einstein Toolkit: A Community Computational Infrastructure for Relativistic Astrophysics.

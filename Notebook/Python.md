@@ -12,6 +12,7 @@ Python package can be installed in a variety of ways.
 - Astronomy
 	- [Astropy](https://www.astropy.org) - Astronomy in Python and foster an ecosystem of interoperable astronomy packages.
 	- [PyEphem](https://rhodesmill.org/pyephem/index.html) - Compute planet, comet, asteroid, and Earth satellite positions.
+	- ShowerModel - Cosmic-ray
 - MCMC
 	- [emcee](https://emcee.readthedocs.io/en/v2.2.1/) - MCMC
 	- [PyMC3](https://docs.pymc.io) - MCMC
@@ -33,5 +34,8 @@ Python package can be installed in a variety of ways.
 	- [[pyGWAnalysis]] - Gravitational Wave postprocessing tool.
 	- [sxs](https://github.com/sxs-collaboration/sxs)- Download and interact with the SXS Catalog
 	- [EccRed](https://github.com/NCSAGravity/eccred) - Automated framework to produce low eccentricity numerical binary black hole simulations.
+	- [surfinBH](https://github.com/vijayvarma392/surfinBH) - surfinBH provides surrogate final Black Hole properties for mergers of binary black holes (BBH).
 - Visualization
 	- [seaborn](http://seaborn.pydata.org) - Drawing attractive and informative statistical graphics.
+	- [ipygany](https://github.com/QuantStack/ipygany) - Jupyter Interactive Widgets library for 3-D mesh analysis
+	- [[Mayavi]] - 3D plotting and data visualization with numpy

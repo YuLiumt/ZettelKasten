@@ -41,6 +41,8 @@ Note also that the initial data will have spurious gravitational radiation.
 
 ## Parameter
 
-- ADM mass of Black holes
-- momentum of the puncture
-- spin of the puncture
+These data are characterized by mass parameters $m_{p 1 / 2}$, momenta $\vec{p}_{1 / 2}$, spins $\vec{S}_{1 / 2}$, and coordinate locations $\vec{x}_{1 / 2}$ of each hole.
+
+![[Pasted image 20210309181818.png]]
+
+We normalize our data such that the total Arnowitt-Deser-Misner (ADM) energy is $1M$ and the mass ratio, as measured by the horizons masses on the initial slice, has a given value. Because the BHs absorb energy during the first few M of evolution, the actual mass ratio will be altered.
