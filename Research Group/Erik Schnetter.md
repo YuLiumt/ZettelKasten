@@ -23,6 +23,8 @@
 - 2010
 	- [[Thomas2010]] Simulation Factory: Taming Application Configuration and Workflow on High-End Resources.
 	- [[Seidel2010]] Simplifying Complex Software Assembly: The Component Retrieval Language and Implementation.
+- 2003
+	- [[Dreyer2003]] Introduction to isolated horizons in numerical relativity
 - and so on.
 
 ## Projects

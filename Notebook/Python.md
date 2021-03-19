@@ -34,8 +34,11 @@ Python package can be installed in a variety of ways.
 	- [[pyGWAnalysis]] - Gravitational Wave postprocessing tool.
 	- [sxs](https://github.com/sxs-collaboration/sxs)- Download and interact with the SXS Catalog
 	- [EccRed](https://github.com/NCSAGravity/eccred) - Automated framework to produce low eccentricity numerical binary black hole simulations.
-	- [surfinBH](https://github.com/vijayvarma392/surfinBH) - surfinBH provides surrogate final Black Hole properties for mergers of binary black holes (BBH).
+	- [[surfinBH]] - surfinBH provides surrogate final Black Hole properties for mergers of binary black holes (BBH).
+	- gwsurrogate - 
+	- [[binaryBHexp]] - Generates visualizations of precessing binary black hole mergers and the final remnant black holes.
+	- [[Riroriro]] - Simulate the gravitational waveforms of binary mergers of black holes and/or neutron stars, and calculate several properties of these mergers and waveforms.
 - Visualization
 	- [seaborn](http://seaborn.pydata.org) - Drawing attractive and informative statistical graphics.
-	- [ipygany](https://github.com/QuantStack/ipygany) - Jupyter Interactive Widgets library for 3-D mesh analysis
+	- [[ipygany]] - Jupyter Interactive Widgets library for 3-D mesh analysis
 	- [[Mayavi]] - 3D plotting and data visualization with numpy

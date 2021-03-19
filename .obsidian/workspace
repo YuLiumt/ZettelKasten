@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c8e891cdfed727c0",
+        "id": "c77690f6e3f5cf3c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notebook/Python.md",
+            "file": "Article/Papenfort2021.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phenomenological formulas",
+                "query": "Omega",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/Python.md",
+                "file": "Article/Papenfort2021.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/Python.md"
+                "file": "Article/Papenfort2021.md"
               }
             }
           },
@@ -115,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Notebook/Python.md",
-    "Notebook/TwoPunctures Thorn.md",
-    "Research Group/Carlos Lousto.md",
-    "Research Group/Rochester Institute of Technology.md",
-    "Article/Balasubramanian2021.md",
-    "Notebook/GW170817.md",
-    "Article/Boyle2016.md",
-    "Balasubramanian2021.md",
-    "Notebook/Binary Black Hole.md",
-    "Notebook/Linux.md"
+    "Article/Papenfort2021.md",
+    "Research Group/Luciano Rezzolla.md",
+    "Notebook/Elias Roland Most.md",
+    "Research Group/Ludwig Jens Papenfort.md",
+    "Article/Pekowsky2013.md",
+    "Papenfort2021.md",
+    "Ludwig Jens Papenfort.md",
+    "Research Group/Masaru Shibata.md",
+    "Luciano Rezzolla.md",
+    "Article/Antoni2020.md"
   ]
 }

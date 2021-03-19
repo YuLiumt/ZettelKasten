@@ -13,6 +13,8 @@
 
 ## Publications
 
+- 2021
+	- [[Papenfort2021]] A new public code for initial data of unequal-mass, spinning compact-object binaries
 - 2020
 	- [[Most2020]] Fast ejecta as a potential way to distinguish black holes from neutron stars in high-mass gravitational-wave events.
 

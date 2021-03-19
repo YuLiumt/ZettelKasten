@@ -28,6 +28,9 @@
 	-  coalescence phase $\phi_{c}$
 	-  eccentricity $e$
 
+- Omega
+	- [[Habib2019]]
+
 ##  Empirical Formulas
 
 The inspiral and merger of two black holes produces a remnant black hole with mass and spin determined by the properties of its parent black holes.
@@ -35,3 +38,7 @@ The inspiral and merger of two black holes produces a remnant black hole with ma
 
 
 - [[Carlos Lousto]]
+
+## Surrogate waveform catalog
+
+- [Homepage](https://zenodo.org/record/3629749#.YEhgfC0RqL0)
