@@ -30,16 +30,6 @@ qlm_w_momentum_x(hn) = qlm_w_momentum_x(hn) &
 
 - [[Dreyer2003]] Introduction to isolated horizons in numerical relativity
 - [[Ashtekar2003]] Dynamical Horizons and their Properties
+- [[Schnetter2006]] Introduction to dynamical horizons in numerical relativity
+- [[Szabados2004]] Quasi-Local Energy-Momentum and Angular Momentum in GR: A Review Article
 
-Erik Schnetter, Badri Krishnan, Florian Beyer
-ntroduction to dynamical horizons in numerical relativity
-Phys. Rev. D 74 (2006) 024028
-arXiv:gr-qc/0604015
-
-Quasi-Local Energy-Momentum and Angular Momentum in GR: A Review Article
-Living Rev. Relativity 7 (2004) 4
-http://www.livingreviews.org/lrr-2004-4
-
-Andrew P. Lundgren, Bjoern S. Schmekel, James W. York, Jr.
-Self-Renormalization of the Classical Quasilocal Energy
-arXiv:gr-qc/0610088

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/Papenfort2021.md",
+            "file": "Article/Gerosa2018.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Omega",
+                "query": "convergence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 171.0107650756836
+    "width": 193.0107650756836
   },
   "right": {
     "id": "1ff87cd29d1eca20",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/Papenfort2021.md",
+                "file": "Article/Gerosa2018.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/Papenfort2021.md"
+                "file": "Article/Gerosa2018.md"
               }
             }
           },
@@ -106,6 +106,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "71f49a1ff57dcb4c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ]
       }
@@ -115,15 +123,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Article/Papenfort2021.md",
-    "Research Group/Luciano Rezzolla.md",
-    "Notebook/Elias Roland Most.md",
-    "Research Group/Ludwig Jens Papenfort.md",
-    "Article/Pekowsky2013.md",
-    "Papenfort2021.md",
-    "Ludwig Jens Papenfort.md",
-    "Research Group/Masaru Shibata.md",
-    "Luciano Rezzolla.md",
-    "Article/Antoni2020.md"
+    "Article/Gerosa2018.md",
+    "surrkick.md",
+    "Gerosa2018.md",
+    "Research Group/Leo C. Stein.md",
+    "Leo C. Stein.md",
+    "Template/person.md",
+    "Notebook/Cactus.md",
+    "Notebook/Python.md",
+    "Lenon2021.md",
+    "Cosmic Explorer.md"
   ]
 }

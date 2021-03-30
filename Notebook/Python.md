@@ -4,8 +4,23 @@
 
 Python package can be installed in a variety of ways.
 
-- `pip install` from PyPi
-- conda
+- Using pip:
+	```
+	$ pip install <package>
+	```
+- Using conda:
+	```
+	$ conda install -c conda-forge <package>
+	```
+
+For installing the development version, you can do:
+
+- Installation from clone:
+	```
+	$ git clone <github>
+	$ cd <package>
+	$ pip install -e .
+	```
 
 ## Python Package
 
@@ -28,7 +43,7 @@ Python package can be installed in a variety of ways.
 - Artificial Intelligence
 	- [scikit-learn](https://scikit-learn.org/stable/) - Machine Learning
 - General Relativity
-	- [EinsteinPy](https://einsteinpy.org) 
+	- [[EinsteinPy]]
 - Numerical Relativity
 	- [[NRPy+]] - Python-based code generation for numerical relativity.
 	- [[pyGWAnalysis]] - Gravitational Wave postprocessing tool.
@@ -38,6 +53,7 @@ Python package can be installed in a variety of ways.
 	- gwsurrogate - 
 	- [[binaryBHexp]] - Generates visualizations of precessing binary black hole mergers and the final remnant black holes.
 	- [[Riroriro]] - Simulate the gravitational waveforms of binary mergers of black holes and/or neutron stars, and calculate several properties of these mergers and waveforms.
+	- [[surrkick]]- Black-hole kicks from numerical-relativity surrogate models.
 - Visualization
 	- [seaborn](http://seaborn.pydata.org) - Drawing attractive and informative statistical graphics.
 	- [[ipygany]] - Jupyter Interactive Widgets library for 3-D mesh analysis

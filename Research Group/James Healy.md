@@ -13,6 +13,7 @@
 
 - 2020
 	- [[Healy2020]] The Third RIT binary black hole simulations catalog
+	- [[Lousto2020]] Exploring the Small Mass Ratio Binary Black Hole Merger via Zeno's Dichotomy Approach
 - 2017
 	- [[Healy2017a]] Nonspinning binary black hole merger scenario revisited
 	- [[Healy2017b]] Targeted numerical simulations of binary black holes for GW170104

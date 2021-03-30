@@ -12,6 +12,7 @@
 ## Publications
 
 - 2020
+	- [[Lousto2020]] Exploring the Small Mass Ratio Binary Black Hole Merger via Zeno's Dichotomy Approach
 	- [[Healy2020]] The Third RIT binary black hole simulations catalog
 - 2017
 	- [[Healy2017a]] Nonspinning binary black hole merger scenario revisited

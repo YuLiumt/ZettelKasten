@@ -23,6 +23,8 @@
 - 2010
 	- [[Thomas2010]] Simulation Factory: Taming Application Configuration and Workflow on High-End Resources.
 	- [[Seidel2010]] Simplifying Complex Software Assembly: The Component Retrieval Language and Implementation.
+- 2006
+	- [[Schnetter2006]] Introduction to dynamical horizons in numerical relativity
 - 2003
 	- [[Dreyer2003]] Introduction to isolated horizons in numerical relativity
 - and so on.
@@ -34,3 +36,4 @@
 - [[Einstein Toolkit]]
 	- [[Carpet Thorn]] Carpet is a mesh refinement infrastructure for the Cactus framework. 
 	- [[Simulation Factory]]
+

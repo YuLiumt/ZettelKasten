@@ -4,7 +4,7 @@
 - **Summary**:
 	- 
 - **Link**: 
-- [ADS]() Schnetter E. Performance and Optimization Abstractions for Large Scale Heterogeneous Systems in the Cactus/Chemora Framework. arXiv:1308.1343.
+- [ADS](https://ui.adsabs.harvard.edu/abs/2013arXiv1308.1343S/abstract) Schnetter E. Performance and Optimization Abstractions for Large Scale Heterogeneous Systems in the Cactus/Chemora Framework. arXiv:1308.1343.
 
 ___
 

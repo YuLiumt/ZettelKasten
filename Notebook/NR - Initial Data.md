@@ -114,3 +114,13 @@ $$
 where neutron stars are assumed to lie on the $x$ axis and $v_{+}$ and $v_{-}$ apply to neutron stars at $x>0$ and $x<0$, respectively. The values of $v_{\pm}$ should be chosen to satisfy $v_{+}-v_{-}=2 v$, and the partition may be done according to their locations relative to the rotational axis or masses in isolation.
 
 From our experience, no noticeable difference is found between results obtained with these two symmetry vectors, including the oscillation of neutron stars during time evolution, for an equal-mass binary. We still prefer to adopt Eq. (14), because this symmetry vector may be useful in computing low-eccentricity initial data of unequal-mass binaries.
+
+## Tools
+
+- TwoPunctures
+- SGRID
+- BAM
+- COCAL
+- Spells
+- [[Lorene]]
+- [[Kadath]]
