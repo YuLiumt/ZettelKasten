@@ -22,6 +22,7 @@ In the description of the BNS mergers are involved essentially three stages, the
 	- [[BNS - Neutrino-driven winds]]
 	- [[BNS - Magnetic-driven winds]]
 	- [[BNS - Merger Fate]]
+	- [[BNS - Collapse time]]
 
 ## Event rate
 

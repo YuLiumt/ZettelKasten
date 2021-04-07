@@ -25,6 +25,8 @@
 	- [[Lousto2013]] Nonlinear gravitational recoil from the mergers of precessing black-hole binaries
 - 2009
 	- [[Campanelli2009]] Comparison of numerical and post-Newtonian waveforms for generic precessing black-hole binaries
+- 2007
+	- [[Krishnan2007]] Quasi-local linear momentum in black-hole binaries
 - and so on.
 
 ## Projects

@@ -4,6 +4,10 @@ Our procedure uses a numerical-relativity surrogate model to obtain the gravitat
 
 The SXS surrogate model NRSur7dq2 and a few other dependencies will be installed together with surrkick.
 
+## Code Distribution and Usage
+
+
+
 ## Citation
 
 When using `surrkick` in any published work, please cite the paper describing its implementation:

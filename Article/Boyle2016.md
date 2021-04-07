@@ -1,6 +1,6 @@
 ## How should spin-weighted spherical functions be defined?
 
-- **Author**: Boyle M.
+- **Author**: [[Michael Boyle]]
 - **Summary**:
 	- 
 - **Link**: [[Gravitational Wave Extraction]]

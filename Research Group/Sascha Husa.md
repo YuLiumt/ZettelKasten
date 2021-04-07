@@ -8,6 +8,7 @@
 
 ## Publications
 
+- [[Ramos-Buades2019]] Simple procedures to reduce eccentricity of binary black hole simulations
 
 ## Projects
 

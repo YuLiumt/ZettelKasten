@@ -44,8 +44,10 @@ waveform = sxs.load("SXS:BBH:0123/Lev/rhOverM", extrapolation_order=2)
 plt.plot(waveform.t, waveform.data.real);
 ```
 
+
 ## Tools
 
 -   [GWFrames](https://github.com/moble/GWFrames) - old and ugly
 -   [scri](https://github.com/moble/scri) - powerful but complicated
 -   [sxs](https://github.com/sxs-collaboration/sxs) - new and beautiful
+-   [sxs_notebooks](https://github.com/moble/sxs_notebooks) a few notebooks illustrating how to use the sxs python package.

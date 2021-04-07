@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/Gerosa2018.md",
-            "mode": "preview"
+            "file": "Krishnan2007.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "convergence",
+                "query": "tag:#in-progress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 193.0107650756836
+    "width": 193.0107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "1ff87cd29d1eca20",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/Gerosa2018.md",
+                "file": "Krishnan2007.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -92,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/Gerosa2018.md"
+                "file": "Krishnan2007.md"
               }
             }
           },
@@ -115,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -123,15 +125,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Article/Gerosa2018.md",
-    "surrkick.md",
-    "Gerosa2018.md",
-    "Research Group/Leo C. Stein.md",
-    "Leo C. Stein.md",
-    "Template/person.md",
-    "Notebook/Cactus.md",
+    "Krishnan2007.md",
+    "Research Group/Carlos Lousto.md",
+    "Hajela2021.md",
     "Notebook/Python.md",
-    "Lenon2021.md",
-    "Cosmic Explorer.md"
+    "Article/Papenfort2021.md",
+    "Article/Woodford2019.md",
+    "Arun2009.md",
+    "Notebook/Boyle2013.md",
+    "Research Group/Michael Boyle.md",
+    "Article/Boyle2019.md"
   ]
 }
